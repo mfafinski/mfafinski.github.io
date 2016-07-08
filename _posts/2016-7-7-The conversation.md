@@ -3,9 +3,11 @@ layout: post
 title: Give me my history back!
 ---
 
-On IMC 2016 one of the most interesting discussions happened after a session devoted to the fate of refugees in the Late Roman and Early Medieval World. You can check the abstracts out [here](https://imc.leeds.ac.uk/dbsql02/AQueryServlet?*id=30&*formId=30&*context=IMC&conference=2016&sessionId=6600&chosenPaperId=&*servletURI=https://imc.leeds.ac.uk/dbsql02/AQueryServlet) but what  drove the whole session home was a talk afterwards. And it wasn't really about refugees.
+On IMC 2016 one of the most interesting discussions happened after a session devoted to the fate of refugees in the Late Roman and Early Medieval World. You can check the abstracts out [here](https://imc.leeds.ac.uk/dbsql02/AQueryServlet?*id=30&*formId=30&*context=IMC&conference=2016&sessionId=6600&chosenPaperId=&*servletURI=https://imc.leeds.ac.uk/dbsql02/AQueryServlet) but what  drove the whole session home was a talk afterwards. 
 
-How do we take the history back?
+And it wasn't really about refugees.
+
+It was about how are we to take the history back?
 
 After numerous, let us be honest here, completely insane texts by previously quite respected academics like Alexander Demandt (you can [read](http://www.faz.net/aktuell/politik/staat-und-recht/untergang-des-roemischen-reichs-das-ende-der-alten-ordnung-14024912.html) about his "opinions" if you haven't yet) the silent majority of historians need an outlet to be able to say 'Hey! That is a fat load of bullshit!'. The need is becoming increasingly dire. During the discussion chilling stories of respectable research being used by right-wing wackos were told; of lack of control in the times of a digital world; of a dire need to find a way to comunicate with the wider public.
 
