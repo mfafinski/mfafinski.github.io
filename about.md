@@ -1,30 +1,13 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a historian and a translator. I studied classical philology, Mediterranean culture studies and history in Poznan and Leeds as well as British studies at Humboldt-Universität zu Berlin. In 2015 I was granted a doctoral fellowship by the Berlin Graduate School of Ancient Studies within the program Ancient Languages and Texts. My dissertation examines the problem of continuity in the context of in Britain after the Roman withdrawal and the uses and re-uses of the past in Anglo-Saxon Britain.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This website is build using Jekyll and hosted on GitHub.
 
-There are currently two themes built on Poole:
+### Drop me a line
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[calthalas@yahoo.com](mailto:calthalas@yahoo.com)
