@@ -8,11 +8,11 @@ Publications
 
 2014
 
-Mateusz Fafinski, “The moving centre: trade and travel in York from Roman to Anglo-Saxon Times”, in: G.R. Owen-Crocker,  B. W. Schneider (eds.)  The Anglo-Saxons: The World through their Eyes, BAR British Series 595, Oxford: Archaeopress, 2014, 71-77. [read online](/pdfs/York.pdf)
+Mateusz Fafinski, “The moving centre: trade and travel in York from Roman to Anglo-Saxon Times”, in: G.R. Owen-Crocker,  B. W. Schneider (eds.)  The Anglo-Saxons: The World through their Eyes, BAR British Series 595, Oxford: Archaeopress, 2014, 71-77. [read online](/PDFs/York.pdf)
 
 2013
 
-Mateusz Fafinski, “The Overseas Contacts of the Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/pdfs/The Overseas Contacts of the Anglo-Saxon.pdf)
+Mateusz Fafinski, “The Overseas Contacts of the Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/PDFs/The Overseas Contacts of the Anglo-Saxon.pdf)
 
 2012
 
