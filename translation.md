@@ -20,3 +20,7 @@ Whitlock Flint, Bestie z Buchenwaldu. Karl i Ilse Kochowie – najgłośniejszy 
 Martin Thomas R., Starożytny Rzym. Od Romulusa do Justyniana, tłum. Mateusz Fafiński, Poznań: Wydawnictwo Poznańskie, 2014.
 
 Saviano Roberto, Chodź ze mną, tłum. Mateusz Fafiński, Katowice: Wydawnictwo Sonia Draga 2014.
+
+Hughes Ian, Belizariusz. Wódz Bizancjum, tłum. Mateusz Fafiński, Poznań: Wydawnictwo Poznańskie, 2016.
+
+Schama Simon, Historia Żydów, tłum. Mateusz Fafiński, Poznań: Wydawnictwo Poznańskie, 2016.
