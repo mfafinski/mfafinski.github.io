@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-Over the years I have translated 8 books and over 200 articles, working in English, German, Polish and Italian. I mostly specialise in historical non-fiction, with occasional forays into diaries and speculative fiction.
+Over the years I have translated multiple books and over 200 articles, working in English, German, Polish and Italian. I mostly specialise in historical non-fiction, with occasional forays into diaries and speculative fiction.
 
 Translated books
 ---
