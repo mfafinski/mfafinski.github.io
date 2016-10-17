@@ -27,7 +27,7 @@ Conferences and workshops
 
 2016
 
-8. Darmstädter Diskussionen, September 2016
+8 Darmstädter Diskussionen, September 2016
 
 International Medieval Congress, Leeds, July 2016
 
