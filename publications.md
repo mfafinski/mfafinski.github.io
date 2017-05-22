@@ -25,6 +25,11 @@ Mateusz Fafinski, “Od kościoła do targu. Wschodniopruska mała ojczyzna w �
 Conferences and workshops
 ---
 
+2017
+
+7th Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History, Mainz, May 2017
+
+>Looking for a City. A Reassessment of the Search for Early Medieval Urbanism in Britain
 2016
 
 8 Darmstädter Diskussionen, September 2016
