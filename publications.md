@@ -35,11 +35,20 @@ Conferences and workshops
 
 8 Darmstädter Diskussionen, September 2016
 
+>The Image of Roman Infrastructure
+in Anglo-Saxon Cultural Space
+
 International Medieval Congress, Leeds, July 2016
+
+>The Roman Infrastructure in Early Medieval Britain as a Governance Resource
 
 Nutzung und Umnutzung von Grundbesitz, Gebäuden und Infrastrukturen im römischen Imperium und danach: Historische, rechtshistorische und archäologische Perspektive, Berlin, June 2016
 
+>The Roman Roads in Anglo-Saxon Charters ‒ Demarcation and Usage
+
 The Ethnic and the Social: the Forms of Interplay and Conflicts, Sankt Petersburg, February 2016
+
+>Group conflict in the Early Medieval urban space - identification and approach
 
 2010
 
