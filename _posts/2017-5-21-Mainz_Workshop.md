@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Late Antique and Early Medieval discussions in Mainz 
+image: /images/avatar.jpg
+excerpt: "The Univeristy of Mainz and the Römisch-Germanisches Zentralmuseum in Mainz hosted on the weekend of the 19-21 of May the Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History. I had the chance to participate for the first time and as it was a splendid occasion that prompted many interesting discussions and insights."
 ---
 
 The Univeristy of Mainz and the Römisch-Germanisches Zentralmuseum in Mainz hosted on the weekend of the 19-21 of May the Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History. I had the chance to participate for the first time and as it was a splendid occasion that prompted many interesting discussions and insights I wanted to share a few thoughts about the event. You can check out the complete program [here](http://www.geschichte.uni-mainz.de/Byzantinistik/Dateien/Workshop_Program_1__1_.pdf)
