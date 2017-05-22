@@ -9,7 +9,7 @@ The University of Mainz and the Römisch-Germanisches Zentralmuseum in Mainz hos
 
 The workshop, now on its 7th edition, initially involved students from Oxford, Princeton and Vienna, with Mainz and Berlin joining soon after. It gives a chance for the graduate students to share their research in an international environment and get feedback and input from colleagues often working in different epochs and with different methods. This year the topics ranged from Syriac manuscripts to Anglo-Saxon garnets.
 
-The workshop was expertly organised and prepared, thanks to the efforts of [Doktorandennetzwerk Byzanz at Uni Mainz](https://www.facebook.com/DoktorandennetzwerkByzanz/), [Römisch-Germanisches Zentralmuseum in Mainz](http://web.rgzm.de/) and of course the team of [Arbeitsbereichs Byzantinistik at Uni Mainz](http://www.geschichte.uni-mainz.de/Byzantinistik/index.php).
+The workshop was expertly organised and prepared, thanks to the efforts of [Doktorandennetzwerk Byzanz at Uni Mainz](https://www.facebook.com/DoktorandennetzwerkByzanz/), [Römisch-Germanisches Zentralmuseum in Mainz](http://web.rgzm.de/) and of course the Team of [Arbeitsbereichs Byzantinistik at Uni Mainz](http://www.geschichte.uni-mainz.de/Byzantinistik/index.php).
 
 It is of course impossible to comment on all presentations in detail (and there were twenty in total), but I would like nevertheless to offer a few words on that excellent collection of papers, with, of course, some Britain and Anglo-Saxon thoughts to boot. The comparative perspective of the presentations during the conference was one of the chief advantages of the meeting. 
 
