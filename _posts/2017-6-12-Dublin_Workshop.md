@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Late Antique and Early Medieval discussions in Mainz 
+title: From how it really was to how it could have been 
 image: /images/avatar.jpg
-excerpt: "Can we still write grand narratives like in the days of yore?"
+excerpt: "One of the really difficult questions that we face in contemporary historical writing is: can we still write grand narratives like in the days of yore? Is there still space for new Pirennes, Mommsens, Blochs, Huizingas? Or are we now firmly in the gilded age, when we need to focus solely on small history, case studies, fragments and very specialised topics?"
 ---
 
 #From how it really was to how it could have been. Challenging the Grand Narratives in Dublin
