@@ -12,7 +12,7 @@ Mateusz Fafinski, “The moving centre: trade and travel in York from Roman to A
 
 2013
 
-Mateusz Fafinski, “The Overseas Contacts of the Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/PDFs/The Overseas Contacts of the Anglo-Saxon.pdf)
+Mateusz Fafinski, “The Overseas Contacts of Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/PDFs/The Overseas Contacts of the Anglo-Saxon.pdf)
 
 2012
 
@@ -26,6 +26,10 @@ Conferences and workshops
 ---
 
 2017
+
+Challenging Grand Narratives, Dublin, June 2017
+
+`Continuous Problems. The Spectre of Continuity in Early Medieval History Writing`
 
 7th Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History, Mainz, May 2017
 
