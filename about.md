@@ -10,4 +10,4 @@ This website is build using Jekyll and hosted on GitHub.
 
 ### Drop me a line
 
-[calthalas@yahoo.com](mailto:calthalas@yahoo.com)
+mateusz.fafinski[@]fu-berlin.de
