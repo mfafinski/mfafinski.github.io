@@ -4,9 +4,6 @@ title: From how it really was to how it could have been. Challenging the Grand N
 image: /images/avatar.jpg
 excerpt: "One of the really difficult questions that we face in contemporary historical writing is: can we still write grand narratives like in the days of yore? Is there still space for new Pirennes, Mommsens, Blochs, Huizingas? Or are we now firmly in the gilded age, when we need to focus solely on small history, case studies, fragments and very specialised topics?"
 ---
-
-[Problems of Origins](#Problems-of-Origins-are-we-actually-looking-for-truth)
-
 One of the really difficult questions that we face in contemporary historical writing is: can we still write grand narratives like in the days of yore? Is there still space for new Pirennes, Mommsens, Blochs, Huizingas? Or are we now firmly in the gilded age, when we need to focus solely on small history, case studies, fragments and very specialised topics?
 
 In his introduction to the workshop, Niall Ó Súilleabháin set forth an ambitious set of goals for us: try to find new ways to write history and to see if we can still deal with the "Big Ideas".
