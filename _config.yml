@@ -83,6 +83,7 @@ pages_list:
   About: '/about'
   Translation: '/translation'
   Publications: '/publications.md'
+  Research: '/research.md'
 # Exclude these files from your production _site
 exclude:
   - Gemfile
