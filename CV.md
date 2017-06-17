@@ -3,39 +3,40 @@ layout: page
 title: Vita
 ---
 
-# EDUCATION
-============
+### EDUCATION
+---
 
-## 2011-2013	Humboldt-Universität zu Berlin, Master in British Studies (1.6)
+##### 2011-2013	Humboldt-Universität zu Berlin, Master in British Studies (1.6)
 Interdisciplinary programme devised to broaden the knowledge of the United Kingdom, its Law, Culture and History
 
-## 2007-2011	Adam Mickiewicz University in Poznan, M.A. in History, First Class
+##### 2007-2011	Adam Mickiewicz University in Poznan, M.A. in History, First Class
 Studies according to individual, self-designed program; subjects studied: medieval history, archaeology, literary theory, Celtic and Anglo-Saxon Studies, GIS
 
-## 2009-2010	University of Leeds
+##### 2009-2010	University of Leeds
 Institute of Medieval Studies and Department of Classics
 
-## 2009	University of the Faroe Islands
+##### 2009	University of the Faroe Islands
 Faroese Summer Institute
 
-## 2007-2011	Adam Mickiewicz University in Poznan B.A. in Classical Philology and Mediterranean Culture Studies, First Class
+##### 2007-2011	Adam Mickiewicz University in Poznan B.A. in Classical Philology and Mediterranean Culture Studies, First Class
 Subjects of interest: Latin, ancient Greek, Italian
 
 ##### 2006-2007	Nicolaus Copernicus University in Torun, History, English Philology
 
-# GRANTS AND STIPENDS
-============
-## 2015-
+## GRANTS AND SCHOLARSHIPS
+---
+
+##### 2015-
 Doctoral fellowship by the Berlin Graduate School of Ancient Studies within the program Ancient Languages and Texts (ALT).
 
-## 2007-2011
+##### 2007-2011
 Polish Ministry of Science and Higher Education scholarship
 
-## 2009
+##### 2009
 Fróðskaparsetur Føroya scholarship
 
-# WORK AND INTERNSHIP EXPERIENCE
-============
+## WORK AND INTERNSHIP EXPERIENCE
+---
 
 ##### 2015-		PhD Program, Freie Universität Berlin, Topoi
 PhD program in history of continuity
@@ -52,7 +53,7 @@ Digitalization of books, magazines and prints, dealing with visitors
 ##### 2007-	Oscar Translations, Olsztyn
 Translator from Polish to English and from English to Polish in a wide array of subjects: divorce and legal papers, promotional materials, summaries, scientific papers from history, biology and geography
 
-#####2 006-	Freelance English translator
+##### 2006-	Freelance English translator
 Providing translations on a freelance basis from Polish to English and from English to Polish; collaboration with scientific journals (Komunikaty Mazursko-Warmińskie, Olsztyn), private individuals, NGO (Middle East Forum, Philadelphia, PA); interpreter of Polish Minister of National Defence at the 48th Munich Security Conference
 
 ##### 2003-	Littera publishing house, Olsztyn
