@@ -1,40 +1,40 @@
 ---
 layout: page
-title: CV
+title: Vita
 ---
 
-###EDUCATION
+# EDUCATION
 ============
 
-#####2011-2013	Humboldt-Universität zu Berlin, Master in British Studies (1.6)
+## 2011-2013	Humboldt-Universität zu Berlin, Master in British Studies (1.6)
 Interdisciplinary programme devised to broaden the knowledge of the United Kingdom, its Law, Culture and History
 
-#####2007-2011	Adam Mickiewicz University in Poznan, M.A. in History, First Class
+## 2007-2011	Adam Mickiewicz University in Poznan, M.A. in History, First Class
 Studies according to individual, self-designed program; subjects studied: medieval history, archaeology, literary theory, Celtic and Anglo-Saxon Studies, GIS
 
-#####2009-2010	University of Leeds
+## 2009-2010	University of Leeds
 Institute of Medieval Studies and Department of Classics
 
-#####2009	University of the Faroe Islands
+## 2009	University of the Faroe Islands
 Faroese Summer Institute
 
-#####2007-2011	Adam Mickiewicz University in Poznan B.A. in Classical Philology and Mediterranean Culture Studies, First Class
+## 2007-2011	Adam Mickiewicz University in Poznan B.A. in Classical Philology and Mediterranean Culture Studies, First Class
 Subjects of interest: Latin, ancient Greek, Italian
 
-#####2006-2007	Nicolaus Copernicus University in Torun, History, English Philology
+##### 2006-2007	Nicolaus Copernicus University in Torun, History, English Philology
 
-###GRANTS AND STIPENDS
+# GRANTS AND STIPENDS
 ============
-#####2015-
+## 2015-
 Doctoral fellowship by the Berlin Graduate School of Ancient Studies within the program Ancient Languages and Texts (ALT).
 
-#####2007-2011
+## 2007-2011
 Polish Ministry of Science and Higher Education scholarship
 
-#####2009
+## 2009
 Fróðskaparsetur Føroya scholarship
 
-###WORK AND INTERNSHIP EXPERIENCE
+# WORK AND INTERNSHIP EXPERIENCE
 ============
 
 #####2015-		PhD Program, Freie Universität Berlin, Topoi
