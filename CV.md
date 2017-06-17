@@ -37,29 +37,29 @@ Fróðskaparsetur Føroya scholarship
 # WORK AND INTERNSHIP EXPERIENCE
 ============
 
-#####2015-		PhD Program, Freie Universität Berlin, Topoi
+##### 2015-		PhD Program, Freie Universität Berlin, Topoi
 PhD program in history of continuity
 
-#####2012-2013	National Museums of Scotland, Edinburgh
+##### 2012-2013	National Museums of Scotland, Edinburgh
 Assisting with various curatorial tasks; independent project and research implementation; image sourcing; Scottish Life Archive slides and photographs collection cataloguing and handling; organizing events and loans handling; special exhibitions
 
-#####2010-2013	Historia i Media, Warsaw
+##### 2010-2013	Historia i Media, Warsaw
 Monthly articles concerning the usage of new media in history research as well as controversial issues in historical reconstruction; articles from as diverse subjects as the game concerning Warsaw Uprising, reconstruction of Stadtschloss in Berlin or usage of ebook readers in historical research
 
-#####2010	Special Collections Department, University of Warmia and Mazury Library
+##### 2010	Special Collections Department, University of Warmia and Mazury Library
 Digitalization of books, magazines and prints, dealing with visitors
 
-#####2007-	Oscar Translations, Olsztyn
+##### 2007-	Oscar Translations, Olsztyn
 Translator from Polish to English and from English to Polish in a wide array of subjects: divorce and legal papers, promotional materials, summaries, scientific papers from history, biology and geography
 
-#####2006-	Freelance English translator
+#####2 006-	Freelance English translator
 Providing translations on a freelance basis from Polish to English and from English to Polish; collaboration with scientific journals (Komunikaty Mazursko-Warmińskie, Olsztyn), private individuals, NGO (Middle East Forum, Philadelphia, PA); interpreter of Polish Minister of National Defence at the 48th Munich Security Conference
 
-#####2003-	Littera publishing house, Olsztyn
+##### 2003-	Littera publishing house, Olsztyn
 Editing and proofreading; selecting the materials; overseeing the publication process from the submitting of the text to the finished publication;
 
-#####2009 ‘Leeds Student’ newspaper, Leeds
+##### 2009 ‘Leeds Student’ newspaper, Leeds
 Articles in the ‘Arts and Books’ division; popularization of less known foreign writers; first piece about a Polish poet ever written in the history of the newspaper
 
-#####2009-2010	Department of Classics library, University of Leeds
+##### 2009-2010	Department of Classics library, University of Leeds
 Managing the catalogue
