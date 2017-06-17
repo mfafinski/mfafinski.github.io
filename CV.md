@@ -27,7 +27,7 @@ Faroese Summer Institute
 Subjects of interest: Latin, ancient Greek, Italian
 
 ##### 2010	Special Collections Department, University of Warmia and Mazury Library
-Digitalization of books, magazines and prints, dealing with visitors
+Digitalization of books, magazines and prints
 
 ##### 2006-2007	Nicolaus Copernicus University in Torun, History, English Philology
 
