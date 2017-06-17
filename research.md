@@ -6,6 +6,8 @@ In the past I have worked on travel and trade in Early Medieval Northern Sea bas
 
 Now my main project investigates the use of Roman assets (especially infrastructural ones) as governance resources in Late Antique and early Anglo-Saxon Britain; the social impact as well as the role that the Roman infrastructure played in the Early Medieval economy and politics of the island make it a important but also rarely problematized topic.
 
+I also work extensively in the area of Digital Humanities, exploring spatial presentation of written sources.
+
 You will find my academic CV [here](/CV.md)
 
 
