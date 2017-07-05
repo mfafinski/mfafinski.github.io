@@ -1,8 +1,13 @@
-## Public Medievalism in the trenches
+---
+layout: post
+title: Public Medievalism in the trenches
+image: /images/avatar.jpg
+excerpt: "For some of us this years IMC has been dominated by the #publicmedievalism. We live in dangerous times indeed. Middle Ages were never innocent and have always been highly contested, but in the last years they have become a battleground characterised by particular ferocity of fighting."
+---
 
 For some of us this years IMC has been dominated by the #publicmedievalism. We live in dangerous times indeed. Middle Ages were never innocent and have always been highly contested, but in the last years they have become a battleground characterised by particular ferocity of fighting.
 
-James Harland and Sihong Lin organised an improptu session on Tuesday that was meant to address that problem. As this topic has been of huge interest to both tweeting and non-tweeting medievalists, the room was full and the discussion very fruitful.
+James Harland and Sihong Lin organised an improptu session on Monday that was meant to address that problem. As this topic has been of huge interest to both tweeting and non-tweeting medievalists, the room was full and the discussion very fruitful.
 
 Medieval twitter is already ablaze with #publicmedievalism (and of course #imc2017) but I would like to offer some short thoughts on that matter. Therefore I'm taking a break at a Brotherton Library from a busy day of sessions to write them down. Please excuse the somewhat hasty composition and possible typos on the grounds of the importance and the immediacy of the subject! Warning: the text contains an unhealthy amount of parentheses!
 
