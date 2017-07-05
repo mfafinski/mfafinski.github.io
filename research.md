@@ -2,6 +2,8 @@
 layout: page
 ---
 
+I am a historian of Late Antique and Early Medieval West with a particular interest in the use of Roman legacy as a governance resource.
+
 In the past I have worked on travel and trade in Early Medieval Northern Sea basin, as well as literary reception of classical archetypes in British literature.
 
 Now my main project investigates the use of Roman assets (especially infrastructural ones) as governance resources in Late Antique and early Anglo-Saxon Britain; the social impact as well as the role that the Roman infrastructure played in the Early Medieval economy and politics of the island make it a important but also rarely problematized topic.
