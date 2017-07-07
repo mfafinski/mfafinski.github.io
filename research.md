@@ -37,6 +37,10 @@ Conferences and workshops
 
 2017
 
+International Medieval Congress, Leeds, July 2016
+
+`The City and the City: Urban Space Infrastructure in the Context of Early Medieval Britain`
+
 Challenging Grand Narratives, Dublin, June 2017
 
 `Continuous Problems. The Spectre of Continuity in Early Medieval History Writing`
@@ -54,11 +58,11 @@ in Anglo-Saxon Cultural Space`
 
 International Medieval Congress, Leeds, July 2016
 
-`The Roman Infrastructure in Early Medieval Britain as a Governance Resource`
+`Roman Infrastructure in Early Medieval Britain as a Governance Resource`
 
 Nutzung und Umnutzung von Grundbesitz, Gebäuden und Infrastrukturen im römischen Imperium und danach: Historische, rechtshistorische und archäologische Perspektive, Berlin, June 2016
 
-`The Roman Roads in Anglo-Saxon Charters ‒ Demarcation and Usage`
+`Roman Roads in Anglo-Saxon Charters ‒ Demarcation and Usage`
 
 The Ethnic and the Social: the Forms of Interplay and Conflicts, Sankt Petersburg, February 2016
 
@@ -67,6 +71,8 @@ The Ethnic and the Social: the Forms of Interplay and Conflicts, Sankt Petersbur
 2010
 
 MANCASS Easter Conference, Manchester, April 2010
+
+`The moving centre: trade and travel in York from Roman to Anglo-Saxon times`
 
 2009
 
