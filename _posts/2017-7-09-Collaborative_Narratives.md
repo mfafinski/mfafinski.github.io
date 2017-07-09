@@ -2,10 +2,10 @@
 layout: post
 title: Collaborative Narratives and Flipped Maps
 image: /images/avatar.jpg
-excerpt: "On the IMC Book Fair I have spent an astonishing sum of three pounds on a battered copy of Philip Whitting's **Byzantium. An Introduction**. Why, you may ask? It is fairly outdated, very cursory, short and has been out of print for at least thirty years. If you google it you will find just a couple of references to it. For anybody who has Ostrogorsky's **History of the Byzantine State** on the shelf it can only be seen as a handy introduction to students (if even that)."
+excerpt: "During the IMC Book Fair I have spent an astonishing sum of three pounds on a battered copy of Philip Whitting's **Byzantium. An Introduction**. Why, you may ask? It is fairly outdated, very cursory, short and has been out of print for at least thirty years. If you google it you will find just a couple of references to it. For anybody who has Ostrogorsky's **History of the Byzantine State** on the shelf it can only be seen as a handy introduction to students (if even that)."
 ---
 
-On the IMC Book Fair I have spent an astonishing sum of three pounds on a battered copy of Philip Whitting's *Byzantium. An Introduction*. Why, you may ask? It is fairly outdated, very cursory, short and has been out of print for at least thirty years. If you google it you will find just a couple of references to it. For anybody who has Ostrogorsky's *History of the Byzantine State* on the shelf it can only be seen as a handy introduction to students (if even that). The book on 178 pages gives an overview of Byzantine history in seven chapters, aimed mostly at the wider public. And yet, in light of the #publicmedievalist debate I want to highlight two things that this book does just right.
+During the IMC Book Fair I have spent an astonishing sum of three pounds on a battered copy of Philip Whitting's *Byzantium. An Introduction*. Why, you may ask? It is fairly outdated, very cursory, short and has been out of print for at least thirty years. If you google it you will find just a couple of references to it. For anybody who has Ostrogorsky's *History of the Byzantine State* on the shelf it can only be seen as a handy introduction to students (if even that). The book on 178 pages gives an overview of Byzantine history in seven chapters, aimed mostly at the wider public. And yet, in light of the #publicmedievalist debate I want to highlight two things that this book does just right.
 
 ## Turning your world upside down
 
