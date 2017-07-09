@@ -23,6 +23,8 @@ During the #publicmedievalist debate at IMC we have talked at length about penet
 
 Well, here you have a possible solution to that problem: we should write collaborative narratives. It is much easier to find time to write a short chapter (not that different from a blogpost) than a whole popular book on the subject. There are multiple options for making this kind of work published both in print and on the internet (I have to say, after IMC, I am really thinking of you [Kismet Press](http://kismet.press/) and your Epitome series!) We could really make that happen! It will give us a powerful tool in the future. It can serve as means to empower younger scholars. It can help to bring new, challenging views to the wider public.
 
+Writing collaborative narratives can allow us to cover large topics much faster. It will also help us to develop common strategies in respective fields and last but not least help to exchange our views and get to know others in our respective fields.
+
 Let it be short. Let it be accessible. Let it be challenging.
 
 And please, let it have flipped maps.
