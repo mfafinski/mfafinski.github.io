@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Towards academic communism. A naive proposal (with footnotes)
-image: /images/avatar.jpg
+image: /images/avatar.png
 excerpt: "The academic system is broken. There is a lot of talk about revolutions of various kinds in academia: open access, digital and so on. All of them are important and will, in time, change the way the field looks. Maybe I am a bit naive but I really believe it. The problem is: it will take years if not decades before it happens. Academia is political. Every research is political. Therefore, maybe, we should look for solutions also in the realm of politics."
 ---
 
