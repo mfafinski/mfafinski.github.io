@@ -19,7 +19,7 @@ Instead of replacing the system those moves just try to fix it. And the system o
 
 It is also highly morally and ethically doubtful if deals with big publishers are acceptable at all. If it costs [5000$](https://www.elsevier.com/about/our-business/policies/pricing) to publish an article in open access and it gets lowered to 500$ or even 100$ it is still 500$ and 100$ too much. Open access means freedom of access to knowledge not pre-paid access to knowledge. That is just shifting the cost. There are even schemes inside universities and grant projects to pay the cost of open access that are used to pay those fees. This is perverse. This money should be restricted only to truly open access publishers and should never find its way to the pocket of journals charging up to 50 000$ for a yearly subscription. At the end of the day it is an equivalent of having to pay your landlord to access books on your own shelf.
 
-Universities, libraries even larger groups of researchers have demonstrated that it is possible to exert pressure on big publishers. Such pressure is important and beneficial, but to change the situation quickly we need
+Universities, libraries, even larger groups of researchers have demonstrated that it is possible to exert pressure on big publishers. Such pressure is important and beneficial, but to change the situation quickly we need
 
 ## a political solution.
 
