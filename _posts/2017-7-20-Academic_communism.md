@@ -37,7 +37,7 @@ Critics maintain that the paid, large journals and by extension their publishers
 
 ## there are problems.
 
-First of all the very enactment of this would require us, academics, to get involved politically. A lot. Like every cause it cannot be furthered by somebody else for us. It means we need to directly influence politics and be part of it. During the IMC2017 discussion on #publicmedievalism this question has been raised and a greater political involvement proposed. Maybe even academics running for political posts themselves.
+First of all the very enactment of this would require us, academics, to get involved politically. A lot. Like every cause it cannot be furthered by somebody else for us. It means we need to directly influence politics. And be part of it. During the IMC2017 discussion on #publicmedievalism this question has been raised and a greater political involvement proposed. Maybe even academics running for political posts themselves.
 
 Second this is a a large scale operation: it requires state involvement at the highest level and that takes time.[^5] The topic, although very important, does not resonate well with the general public (yet) - so we need to educate. Both in terms of benefits (faster access to knowledge means faster access to scientific discoveries) and savings (at the end the big journals are paid from our taxes). We need to become a part of the political scene - our research is political and so are our actions.
 
