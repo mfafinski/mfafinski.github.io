@@ -23,7 +23,7 @@ Universities, libraries, even larger groups of researchers have demonstrated tha
 
 ## a political solution.
 
-There is one and basically it involves a form of academic communism. Its applicability and usability would vary from country to country - definitely easier to enact it in EU countries than, let's say, in the USA.
+There is one and it involves a form of academic communism. Its applicability and usability would vary from country to country - definitely easier to enact it in EU countries than, let's say, in the USA.
 
 A government announces that, let's say in three years time, 2/3 of the newly published articles in order to count for academic output must be open access and **unpaid** open access to boot. This number can be increased over time to reach 100% and at the beginning could involve only selected fields (history, we should volunteer). Since in an European context it is mainly the government that pays for higher education (sometimes at a more local level) it has the ability to withhold the funds spent on those subscriptions. This money comes from taxes, so a move like that might even be presented as a valid campaign promise and by such be spared the fate of a political suicide. In order to make this enforceable a quota of those articles would have to be published in local journals (to avoid a "scientific migration").[^3]
 
