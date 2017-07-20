@@ -9,7 +9,7 @@ What follows here is essentially a set of thoughts I had after a very fruitful c
 
 Here is the thing. The academic system is broken[^2] (surprise, surprise). There is a lot of talk about revolutions of various kinds in academia: open access, digital and so on. All of them are important and will, in time, change the way the field looks. Maybe I am a bit naive but I really believe it. The problem is: it will take years if not decades before it happens.
 
-Academia is political. Every research is political. Therefore, maybe, we should finally look for solutions also in the realm of politics.
+Academia is political. Every research is political. Therefore, maybe, we should look for solutions also in the realm of politics.
 
 Just recently all 4 major Berlin universities [that is Freie Universität (FU), Humboldt-Universität (HU), Technische Universität (TU) and Charité](http://www.berliner-zeitung.de/27926974) have terminated their contract with Elsevier. Big and good. It shows that things can be done even on a relatively small scale. This step is a part of a larger fight to introduce a country-wide flatrate in subscription fees throughout Germany. If it succeeds it will significantly lower the cost of journal access and possibly of publishing articles in the open access model. Similar moves have been made in the Netherlands, Taiwan and in Finland there is an on-going [boycott](http://www.nodealnoreview.org/#statement). As much as it is needed
 
