@@ -10,6 +10,10 @@ I do workshops and public lectures on the topics of medieval history, digital hu
 
 This website is build using Jekyll and hosted on GitHub.
 
+### Follow me on twitter
+
+https://twitter.com/Calthalas
+
 ### Drop me a line
 
 mateusz.fafinski[@]fu-berlin.de
