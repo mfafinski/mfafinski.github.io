@@ -12,7 +12,7 @@ This website is build using Jekyll and hosted on GitHub.
 
 ### Follow me on twitter
 
-https://twitter.com/Calthalas
+[@Calthalas](https://twitter.com/Calthalas)
 
 ### Drop me a line
 
