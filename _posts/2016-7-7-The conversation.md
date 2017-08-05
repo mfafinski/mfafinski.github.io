@@ -5,7 +5,7 @@ title: Give me my history back!
 
 On IMC 2016 one of the most interesting discussions happened after a session devoted to the fate of refugees in the Late Roman and Early Medieval World. You can check the abstracts out [here](https://imc.leeds.ac.uk/dbsql02/AQueryServlet?*id=30&*formId=30&*context=IMC&conference=2016&sessionId=6600&chosenPaperId=&*servletURI=https://imc.leeds.ac.uk/dbsql02/AQueryServlet) but what  drove the whole session home was a talk afterwards. 
 
-And it wasn't really about refugees.
+And it wasn't really about refugees at all.
 
 It was about how are we to take the history back?
 
