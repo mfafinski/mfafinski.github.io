@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: The Obama Moment of Anglo-Saxon Studies?
 image: /images/avatar.png
 excerpt: "Before you think that this is going to be an overly optimistic article full of happy slogans, think again. You remember that Guantanamo thing that was supposed to be closed? It still runs. Or how the US were not supposed to bomb people anymore? Still do. No new wars? Well, you know... Nevertheless a lot of good things happened, too. Thus, when I say "Obama moment" I mean a moment full of potential and full of hope for the future. If it comes into fruition is to be seen."
