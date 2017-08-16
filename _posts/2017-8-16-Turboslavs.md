@@ -63,9 +63,9 @@ Make no mistake: even though the "core" group of believers is relatively small, 
 
 ## Not so easy conclusions
 
-Historians have a responsibility to counter such myths like Turboslavism. This is precisely the place where politics and history intersect. It's a hard fight and a bit of a hopeless one, but one that nevertheless has to be fought.
+Historians have a responsibility to counter such myths like Turboslavism. This is precisely the place where politics and history intersect. It's a hard fight and a bit of a hopeless one, but one that nevertheless has to be fought. Especially now.
 
-Follow me on twitter [@Calthalas](https://twitter.com/Calthalas)
+**Follow me on twitter [@Calthalas](https://twitter.com/Calthalas)**
 
 [^1]: The level of craziness here might be sometimes very high; bear with me.
 [^2]: This is not a joke, he really wrote [that](http://www.bellona.pl/files/9fab9_Chrzescijanscy_krolowie_Lechii.pdf).
