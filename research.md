@@ -36,8 +36,13 @@ Conferences and workshops
 ---
 
 2017
+International Society of Anglo-Saxonists Conference, Honolulu, August 2017
 
-International Medieval Congress, Leeds, July 2016
+`The Cities of Others. Early British Relationship with Roman Urban Space`
+
+`Public Medievalism` - session organiser together with Sihong Lin and Kate Mees
+
+International Medieval Congress, Leeds, July 2017
 
 `The City and the City: Urban Space Infrastructure in the Context of Early Medieval Britain`
 
