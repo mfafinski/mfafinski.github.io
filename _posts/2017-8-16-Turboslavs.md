@@ -33,7 +33,9 @@ Nevertheless it is mostly a "pick and choose" exercise that relies heavily on us
 
 One may ask how come this can hold water? The whole Turboslavic ideology is so absurd and so easily proven wrong that it makes no sense that it can still exist. Well yes and... no.
 
-It is a modern origin myth. Therefore it does not really matter that a smartass historian like me comes and says "Hey! It wasn't like that! Here are the sources, if I can only use a moment of your time..." "Liberal truth" for followers of Turboslavism is essentially a liberal conspiracy. Their theories cannot be discredited by historians because everything that they say is part of that conspiracy.
+It is a modern origin myth. Origin myths have never been made to reflect *actual* history. They are a mix of memories, nostalgia and aspirations (maybe also fears?). The memory of more recent past, as we shall see, plays a significant role in the way this particular one developed.[^4] 
+
+Therefore it does not really matter that a smartass historian like me comes and says "Hey! It wasn't like that! Here are the sources, if I can only use a moment of your time..." "Liberal truth" for followers of Turboslavism is essentially a liberal conspiracy. Their theories cannot be discredited by historians because everything that they say is part of that conspiracy. 
 
 Think about it. If somebody came to you and said: "Hey, evolution is wrong. Here, in the Bible it says that the world was created in seven days, the world is 5000 years old...," you would not believe him, right? Turboslavs see us the way we see creationists: essentially misguided people, who believe lies and cannot understand a simple argumentation that would lead them to the light.
 
@@ -70,3 +72,4 @@ Historians have a responsibility to counter such myths like Turboslavism. This i
 [^1]: The level of craziness here might be sometimes very high; bear with me.
 [^2]: This is not a joke, he really wrote [that](http://www.bellona.pl/files/9fab9_Chrzescijanscy_krolowie_Lechii.pdf).
 [^3]: That is based on small mention in Adam of Bremen, who calls Mieszko "prince of the Vandals". 500 years later? Based on a linguistic error? Who cares!
+[^4]: Great thnaks to Kiri Kolt, who in our discussion about the piece pointed out this very important characterisitcs of origin myths.
