@@ -72,4 +72,4 @@ Historians have a responsibility to counter such myths like Turboslavism. This i
 [^1]: The level of craziness here might be sometimes very high; bear with me.
 [^2]: This is not a joke, he really wrote [that](http://www.bellona.pl/files/9fab9_Chrzescijanscy_krolowie_Lechii.pdf).
 [^3]: That is based on small mention in Adam of Bremen, who calls Mieszko "prince of the Vandals". 500 years later? Based on a linguistic error? Who cares!
-[^4]: Great thnaks to Kiri Kolt, who in our discussion about the piece pointed out this very important characterisitcs of origin myths.
+[^4]: Great thanks to Kiri Kolt, who in our discussion about the piece pointed out this very important characterisitcs of origin myths.
