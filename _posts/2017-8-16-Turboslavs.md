@@ -5,7 +5,7 @@ image: /images/avatar.png
 excerpt: "Not that long ago and not far away, around 2014, a weird trend started to appear in the Polish blogosphere. A bunch of people began to write about the semi-mythical Empire of the Sarmatians that stretched from the Rhine to Novgorod. Sort of Erich von Däniken (and yes, aliens do make an appearance) with a Slavic take. The internet is full of such nonsense, right? Nothing to worry about, right? Well..."
 ---
 
-**Follow me on twitter for more historiopolitcs [@Calthalas](https://twitter.com/Calthalas)**
+**Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
 
 I have been putting off writing this article for quite a while now. The reasons were many: there was the IMC of course (and a lot has happened there). There was ISAS (and all that happened there too). But here we are. The Turboslavs. Buckle up, folks![^1]
 
