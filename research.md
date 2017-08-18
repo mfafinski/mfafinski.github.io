@@ -35,7 +35,8 @@ Mateusz Fafinski, “Od kościoła do targu. Wschodniopruska mała ojczyzna w �
 Conferences and workshops
 ---
 
-2017
+**2017**
+
 International Society of Anglo-Saxonists Conference, Honolulu, August 2017
 
 `The Cities of Others. Early British Relationship with Roman Urban Space`
@@ -54,7 +55,7 @@ Challenging Grand Narratives, Dublin, June 2017
 
 `Looking for a City. A Reassessment of the Search for Early Medieval Urbanism in Britain`
 
-2016
+**2016**
 
 8 Darmstädter Diskussionen, September 2016
 
