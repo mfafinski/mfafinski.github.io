@@ -5,8 +5,6 @@ image: /images/avatar.png
 excerpt: "Not that long ago and not far away, around 2014, a weird trend started to appear in the Polish blogosphere. A bunch of people began to write about the semi-mythical Empire of the Sarmatians that stretched from the Rhine to Novgorod. Sort of Erich von Däniken (and yes, aliens do make an appearance) with a Slavic take. The internet is full of such nonsense, right? Nothing to worry about, right? Well..."
 ---
 
-**Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
-
 I have been putting off writing this article for quite a while now. The reasons were many: there was the IMC of course (and a lot has happened there). There was ISAS (and all that happened there too). But here we are. The Turboslavs. Buckle up, folks![^1]
 
 ## A long, long time ago in a galaxy far away...
@@ -64,6 +62,8 @@ Adherents will take everything to support their views. For example, around a yea
 As such, Turboslavism represents just a very radical iteration of a bigger problem – the lack of true historical reflection among the wider public. How could that happen in a country that truly offers excellent historical education, and which is home to some first-class historical research? There are many answers to that question, but probably the key is the lack of quality public history and especially public medievalism in Poland. History in schools is taught in a repetitive and uninspiring way, which naturally leads people to see it as boring. This in turn primes them perfectly to believe, years later, that all that boring stuff that they learned in school was, essentially, a lie, and that a true, way more exciting history awaits.
 
 Make no mistake: even though the "core" group of believers is relatively small, Bieszk's books sell tens of thousands copies. People who buy and read them might be best described as "fellow travellers". Challenged they will answer that yes, it all sounds a bit odd, but, you don't know for sure, do you? Yes, I do...
+
+**Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
 
 ## Not so easy conclusions
 
