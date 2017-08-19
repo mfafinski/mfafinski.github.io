@@ -5,6 +5,8 @@ image: /images/avatar.png
 excerpt: "Not that long ago and not far away, around 2014, a weird trend started to appear in the Polish blogosphere. A bunch of people began to write about the semi-mythical Empire of the Sarmatians that stretched from the Rhine to Novgorod. Sort of Erich von Däniken (and yes, aliens do make an appearance) with a Slavic take. The internet is full of such nonsense, right? Nothing to worry about, right? Well..."
 ---
 
+**Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
+
 I have been putting off writing this article for quite a while now. The reasons were many: there was the IMC of course (and a lot has happened there). There was ISAS (and all that happened there too). But here we are. The Turboslavs. Buckle up, folks![^1]
 
 ## A long, long time ago in a galaxy far away...
@@ -27,7 +29,7 @@ Bieszk and other “Turboslavs” maintain that it is all very much grounded in 
 
 Therefore, everything that the Turboslavs write is put into a disguise of real historical research. There is source critique, maps, manuscript studies, everything. To an untrained eye authors like Bieszk or Feliks Gruszka (who claims to have discovered the [Slavic alphabet](http://echaswantewita.blogspot.nl/2015/02/jak-pisali-nasi-praprzodkowie.html)) seem like fully fledged historians. Bieszk in his YouTube videos can even be critical to his own theories and talk about "things that still need to be researched". That adds credibility.
 
-Nevertheless it is mostly a "pick and choose" exercise that relies heavily on using one set of sources (mostly completely discredited) and ignoring everything else. Debunking has been done extensively on the internet and in the written media (well, it does not require much effort; virtually all archaeological and historical evidence disproves Lechia), but it does not convince the faithful.
+It is mostly a "pick and choose" exercise that relies heavily on using one set of sources (mostly completely discredited) and ignoring everything else. Debunking has been done extensively on the internet and in the written media (well, it does not require much effort; virtually all archaeological and historical evidence disproves Lechia), but it does not convince the faithful.
 
 ## An origin myth for our times
 
@@ -53,6 +55,8 @@ Why? Because the whole ideology is like a candy bag for right-wing, nationalisti
 
 Turboslavism is also, in a way, our parochial form of white supremacism *cum* alt-right. It just answers different fears and different prejudices, but essentially it represents the same form of ideological point of view.
 
+There are in Turboslavism strong paralles with past ideologies of this kind: Sarmatism (an idea especially popular in the 17th and 18th centuries in Poland, which linked the origins of Poles to ancient Sarmatians; one has to say though that although nationalistic, colonialistic and xenophobic, it presented a very different political and cultural program) and Panslavism (an idea heralding unity of all Slavs, in *most* iterations under the leadership of Russia). But make no mistake: Turboslavism is no mere continuation of those. It is something new and different.
+
 ## What can be done?
 
 Not much, I'm afraid. Turboslavism is not something that can be simply disproved on historical grounds. It is an ideology that appeared at the right place in the right time for the right people (you see what I did there, wink, wink?) This does not mean that we should not fight with it, explain and educate.
@@ -62,8 +66,6 @@ Adherents will take everything to support their views. For example, around a yea
 As such, Turboslavism represents just a very radical iteration of a bigger problem – the lack of true historical reflection among the wider public. How could that happen in a country that truly offers excellent historical education, and which is home to some first-class historical research? There are many answers to that question, but probably the key is the lack of quality public history and especially public medievalism in Poland. History in schools is taught in a repetitive and uninspiring way, which naturally leads people to see it as boring. This in turn primes them perfectly to believe, years later, that all that boring stuff that they learned in school was, essentially, a lie, and that a true, way more exciting history awaits.
 
 Make no mistake: even though the "core" group of believers is relatively small, Bieszk's books sell tens of thousands copies. People who buy and read them might be best described as "fellow travellers". Challenged they will answer that yes, it all sounds a bit odd, but, you don't know for sure, do you? Yes, I do...
-
-**Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
 
 ## Not so easy conclusions
 
