@@ -17,3 +17,5 @@ This website is build using Jekyll and hosted on GitHub.
 ### Drop me a line
 
 mateusz.fafinski[@]fu-berlin.de
+
+All content on this website © Mateusz Fafinski
