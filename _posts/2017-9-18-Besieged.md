@@ -2,11 +2,11 @@
 layout: post
 title: The Late Antique Minas Tirith - a Story of a Remarkable Object
 image: /images/gate.jpg
-excerpt: "In 435 Theodoric I, rightly judging that the Romans will be busy fighting with the Franks on the Rhine, rushed to lay siege on Narbonne, a crucial city in the south of Gaul."
+excerpt: "We start, as befits the period, *in medias res*. In 435 Theodoric I, rightly judging that the Romans will be busy fighting with the Franks on the Rhine, rushed to lay siege on Narbonne, a crucial city in the south of Gaul. His plans were foiled as the siege was lifted by Litorius, *magister militum per Gallias* with the help of the Huns. We have a brief poetic depiction of that scene by Sidonius Apollinaris, a 5th century poet, diplomat and bishop."
 ---
 **Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
 
-In 435 Theodoric I, rightly judging that the Romans will be busy fighting with the Franks on the Rhine, rushed to lay siege on Narbonne, a crucial city in the south of Gaul. His plans were foiled as the siege was lifted by Litorius, *magister militum per Gallias* with the help of the Huns. We have a brief poetic depiction of that scene by Sidonius Apollinaris, a 5th century poet, diplomat and bishop. Sidonius, always a toady, tried to give Avitus, then still a young commander and diplomat but later Western Roman Emperor, all the credit for lifting the siege:
+We start, as befits the period, *in medias res*. In 435 Theodoric I, rightly judging that the Romans will be busy fighting with the Franks on the Rhine, rushed to lay siege on Narbonne, a crucial city in the south of Gaul. His plans were foiled as the siege was lifted by Litorius, *magister militum per Gallias* with the help of the Huns. We have a brief poetic depiction of that scene by Sidonius Apollinaris, a 5th century poet, diplomat and bishop. Sidonius, always a toady, tried to give Avitus, then still a young commander and diplomat but later Western Roman Emperor, all the credit for lifting the siege:
 
 
 He [Theodoric I] had surrounded Narbo,
@@ -38,33 +38,33 @@ There is, however, an object which can help us feel all those emotions even bett
 
 ![Liberation of a City © Foto: Skulpturensammlung und Museum für Byzantinische Kunst der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz Fotograf/in: Antje Voigt](/images/Befreiung.jpg)
 
-Look closely. On the left a Roman relief force arrives, possibly being led by the tall figure which now lacks a face. One of the soldiers sports a labarum, a military standard with the Chi-Rho symbol. Barbarians on horseback flee in terror, trampling some of their own.
+Look closely. The action unfolds. On the left a Roman relief force arrives, possibly being led by the tall figure which now lacks a face. One of the soldiers sports a labarum, a military standard with the Chi-Rho symbol. The battle is already won, the besieging force is beaten and routed. "Barbarians" on horseback flee in terror, trampling some of their own.
 
 ![Fleeing barbarians](/images/trampled.jpg)
 
-The garrison of the city lines the walls (possibly looking out for the relief force) but is eager to join the fight. The gates are opened and some of the defenders join the pursuit.
+The garrison of the city lines the walls (possibly looking out for the relief force) but is eager to join the fight. The gates are opened and some of the defenders join the pursuit. You can just about catch a hint of a smile on the face of the Roman soldier on the right side. He is winning! (Well, he is probably happy that he will not have to "eat of loathsome things" as Sidonius would have put it...)
 
 ![Liberation of a City](/images/gate.jpg)
 
-Some people have been executed, we can see their corpses hanging on wooden beams. Who are they? They must be of high status, their heads are adorned with diadems. As the time axis seems to progress from left to right we can assume they might be the barbarian leaders. But maybe their bodies hung the for a while? Maybe they are traitors?
+But war, war never changes and is still a bloody business. Some people have been executed, we can see their corpses hanging on wooden beams. Who are they? They must be of high status, their heads are adorned with diadems. As the time axis seems to progress from left to right we can assume they might be the barbarian leaders. But maybe their bodies hung the for a while? Maybe they are traitors?
 
 ![Liberation of a City](/images/corpses.jpg)
 
-Higher up we can, through an arch, catch a glimpse of the city proper and its buildings. Above the walls we see tall figures that look like elders. They might be the leaders of the city or the protector-saints that have taken care of the defenders. Now, content, they gaze upon victory. This part is missing the front columns that would have obscured the view but maybe also included more figures representing the civilians.
+Higher up we can, through an arch, catch a glimpse of the city proper and its buildings. There, on the right the structure with an apse could be a church. Above the walls we see tall figures that look like elders. They might be the leaders of the city or the protector-saints that have taken care of the defenders. Now, content, they gaze upon victory. This part is missing the front columns that would have obscured the view but maybe also included more figures representing the civilians.
 
 ![Liberation of a City](/images/saints.jpg)
 
 This extraordinary piece of sculpture, full of action and symbolism, was probably originally hanging on a wall and constituted a part of a bigger assemblage. It most certainly doesn't depict the siege of Narbonne. But what does it depict?
 
-It is, not surprisingly, a mystery. The piece, acquired by the museum in 1900, has up until recently been identified as coming from the eastern part of the empire (even as possibly Coptic in provenance). But on style grounds (such as its similarity to the late [4th century sarcophagus](https://upload.wikimedia.org/wikipedia/commons/3/32/9820_-_Milano_-_Sant%27Ambrogio_-_Sarcofago_di_Stilicone_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg) from St Ambrogio in Milan or the 5th century mosaic in Sta Maria Maggiore in Rome) it has been found to be much more likely to originate in the West.
+It is, not surprisingly, a mystery. The piece, acquired by the museum in 1900, has up until recently been identified as coming from the eastern part of the empire (even as possibly Coptic in provenance). But on style grounds (such as its similarity to the late [4th century sarcophagus](https://upload.wikimedia.org/wikipedia/commons/3/32/9820_-_Milano_-_Sant%27Ambrogio_-_Sarcofago_di_Stilicone_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg) from St Ambrogio in Milan or the 5th century mosaic in Sta Maria Maggiore in Rome) it has been quite recently found to be much more likely to originate in the West.
 
 Is this a real event? Quite possibly. There are indications that although highly stylised it could be a commemoration of one of the real siege liftings. But there is not enough specifics in the piece to match it with any of the ones we know from written sources. It could also be a biblical scene, with the faceless figure being Joshua, rescuing the city of Gibeon (Joshua happened to have hanged the five kings of the Amorites on trees after victory - they might be the ones on the right side of the relief). It could be both! A real event thinly disguised in the biblical context. Just like the poem of Sidonius it would then be a full of flourish way of showing the leader of the victory in the most positive light possible by equating him with a hero from the Old Testament.
 
 Even the identification of the enemy as "barbarians" can be challenged. This is a very fluid term and might have been used a bit too lightly in the old interpretations. Who is and who is not barbarian is a complicated matter and often lies in the eye of the beholder. The retreating army might be, for example, a party in a civil war. The relief force could have mostly been "barbarian", as the example of Huns present at the lifting of the siege of Narbonne shows.
 
-One last cultural note: when I look at it what comes to my mind is Minas Tirith from the Lord of the Rings and the moment when the victorious Aragorn and the Grey Company, together with the Rohirrim, rout the last of the Mordor invaders. I doubt Tolkien had a chance to see it, but the vertical arrangement of the city (here made for practical and artistic purposes) and the story in the scene do bring to mind the capital of Gondor and the final act of the Battle of the Pelennor Fields.[^2] 
+One last cultural note: when I look at it what comes to my mind is Minas Tirith from the Lord of the Rings and the moment when the victorious Aragorn and the Grey Company, together with the Rohirrim, rout the last of the Mordor invaders. I doubt Tolkien had a chance to see it, but the vertical arrangement of the city (here made for practical and artistic purposes) and the story in the scene do bring to mind the capital of Gondor and the final act of the Battle of the Pelennor Fields.[^2] For me, and I know that this can spark a dispute, Minas Tirith is quintessentially a late antique city.
 
-Fantasy literature references aside, in a way this piece can also serve as a metaphor of late antiquity. It is full of action, extraordinary in the way it portrays the event, multilayered, symbolic and at the same time referring (probably) to a real event. But first and foremost it is still mysterious, for there is much we still need to discover about this amazing period!
+Fantasy literature references aside, this piece can also serve as a metaphor of late antiquity. It is full of action, a movie encapsulated in a wooden relief. Extraordinary in the way it portrays the affair, multilayered, symbolic and at the same time referring (probably) to a real event. But first and foremost it is still mysterious, for there is much we still need (and can!) discover about this amazing period!
 
 **Bibliography**
 
