@@ -4,6 +4,7 @@ title: The Late Antique Minas Tirith - a Story of a Remarkable Object
 image: /images/gate.jpg
 excerpt: "In 435 Theodoric I, rightly judging that the Romans will be busy fighting with the Franks on the Rhine, rushed to lay siege on Narbonne, a crucial city in the south of Gaul."
 ---
+**Follow me on twitter for more historiopolitics [@Calthalas](https://twitter.com/Calthalas)**
 
 In 435 Theodoric I, rightly judging that the Romans will be busy fighting with the Franks on the Rhine, rushed to lay siege on Narbonne, a crucial city in the south of Gaul. His plans were foiled as the siege was lifted by Litorius, *magister militum per Gallias* with the help of the Huns. We have a brief poetic depiction of that scene by Sidonius Apollinaris, a 5th century poet, diplomat and bishop. Sidonius, always a toady, tried to give Avitus, then still a young commander and diplomat but later Western Roman Emperor, all the credit for lifting the siege:
 
