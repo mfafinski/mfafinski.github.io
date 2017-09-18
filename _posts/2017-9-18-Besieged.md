@@ -50,7 +50,7 @@ But war, war never changes and is still a bloody business. Some people have been
 
 ![Liberation of a City](/images/corpses.jpg)
 
-Higher up we can, through an arch, catch a glimpse of the city proper and its buildings. There, on the right the structure with an apse could be a church. Above the walls we see tall figures that look like elders. They might be the leaders of the city or the protector-saints that have taken care of the defenders. Now, content, they gaze upon victory. This part is missing the front columns that would have obscured the view but maybe also included more figures representing the civilians.
+Higher up we can, through an arch, catch a glimpse of the city proper and its buildings. There, on the right, the structure with an apse could be a church. Above the walls we see tall figures that look like elders. They might be the leaders of the city or the protector-saints that have taken care of the defenders. Now, content, they gaze upon victory. This part is missing the front columns that would have obscured the view but maybe also included more figures representing the civilians.
 
 ![Liberation of a City](/images/saints.jpg)
 
@@ -68,7 +68,7 @@ Fantasy literature references aside, this piece can also serve as a metaphor of 
 
 **Bibliography**
 
-Apollinaris, Sidonius. *Poems and Letters.* With an English Translation, Introd., and Notes by W.B. Anderson. Cambridge Harvard University Press, 1936. (http://archive.org/details/poemsletterswith01sidouoft).
+Apollinaris, Sidonius. *Poems and Letters.* With an English Translation, Introd., and Notes by W.B. Anderson. Cambridge Harvard University Press, 1936. <http://archive.org/details/poemsletterswith01sidouoft>.
 
 Beckwith, J. *Coptic Sculpture, 300-1300. Chapters in Art Series.* A. Tiranti, 1963.
 
@@ -77,6 +77,6 @@ Riess, Frank. *Narbonne and Its Territory in Late Antiquity: From the Visigoths 
 Weitzmann, Kurt, ed. *Age of Spirituality: Late Antique and Early Christian Art, Third to Seventh Century: Catalogue of the Exhibition at the Metropolitan Museum of Art, November 19, 1977, through February 12, 1978.* New York: The Museum, 1979.
 
 
-[^1]: This translation comes from C. Sollius Modestus Apollinaris Sidonius, *Poems and Letters.* With an English Translation, Introd., and Notes by W.B. Anderson (Cambridge Harvard University Press, 1936), p. 158. If you feel the need to consume more late antique poetry go ahead, it's free:  (http://archive.org/details/poemsletterswith01sidouoft)! The verse division is mine, Anderson didn't even bother and we should understand him: Apollinaris has a style as light as an anvil.
+[^1]: This translation comes from C. Sollius Modestus Apollinaris Sidonius, *Poems and Letters.* With an English Translation, Introd., and Notes by W.B. Anderson (Cambridge Harvard University Press, 1936), p. 158. If you feel the need to consume more late antique poetry go ahead, it's free:  <http://archive.org/details/poemsletterswith01sidouoft>! The verse division is mine, Anderson didn't even bother and we should understand him: Apollinaris has a style as light as an anvil.
 
 [^2]: Somebody in the Weta Workshop must have also thought so - just look at the reconstructions they made for the [film](https://www.wetanz.com/shop/environments/minas-tirith) and [the little one](https://images-na.ssl-images-amazon.com/images/I/81fnSiqUmHL._SY450_.jpg) attached to the collectible DVD!
