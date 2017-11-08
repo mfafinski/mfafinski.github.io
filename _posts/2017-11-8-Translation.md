@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In defence of academic translation
-image: /images/Harley.png
+image: /images/avatar.png
 excerpt: "Translation in academia should be a duty on par with publications in journals and writing books. Those of us who engage in it should be appreciated, praised and encouraged."
 ---
 
@@ -31,5 +31,3 @@ to learn a set of languages to read secondary literature necessary in one's fiel
 If we are to achieve humanities that are more inclusive and more global we simply have to foster translation. We should fight for it to carry academic merit (similarly as we should fight for public outreach to carry one, but that is another matter). By academic merit I do no only mean recognition for scholarly editions - which are important on their own right and also under-appreciated - but also of translation aimed at wider public.
 
 A well executed translation can be the crowning of years of research, hard-work and an important contribution to understanding the text itself. Sometimes we need to wait and witness centuries of translators conversation to witness true beauty emerge - like with the first lines of Wilson's Odyssey. Let us keep this conversation going.
-
-Image used is a trilingual manuscript Harley MS 5786, f. 73r © Foto: British Library
