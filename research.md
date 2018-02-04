@@ -15,6 +15,9 @@ You will find my academic CV [here](/CV.md)
 
 Publications
 ---
+2017
+
+Mateusz Fafinski, "On the Road Again – Das Nachleben der römischen Infrastruktur", in: Antike Welt 6, 2017, 49-57
 
 2014
 
@@ -34,6 +37,11 @@ Mateusz Fafinski, “Od kościoła do targu. Wschodniopruska mała ojczyzna w �
 
 Conferences and workshops
 ---
+**2018**
+
+Social Tensions Between Kinship and Community in the Middle Ages, Frankfurt am Main, January 2018
+
+`Monks, merchants and scholars. Individuation and relationships in Early Medieval urban space`
 
 **2017**
 
