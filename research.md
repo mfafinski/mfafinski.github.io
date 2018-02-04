@@ -45,6 +45,10 @@ Social Tensions Between Kinship and Community in the Middle Ages, Frankfurt am M
 
 **2017**
 
+British Museum Medieval Seminar, London, November 2017
+
+`(Re-)using Rome: Roman Infrastructure as Early Medieval Governance Resource in Britain`
+
 International Society of Anglo-Saxonists Conference, Honolulu, August 2017
 
 `The Cities of Others. Early British Relationship with Roman Urban Space`
