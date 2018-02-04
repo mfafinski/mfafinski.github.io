@@ -8,6 +8,9 @@ title: Vita
 ##### 2015-		PhD Program, Freie Universität Berlin, Topoi
 PhD thesis on Late Antique and Early Medieval Britain
 
+##### 2017 (Fall Term)	University College London, Insitute of Archaeology
+Research stay
+
 ##### 2012-2013	National Museums of Scotland, Edinburgh
 Assisting with various curatorial tasks; independent project and research implementation; image sourcing; Scottish Life Archive slides and photographs collection cataloguing and handling; organizing events and loans handling; special exhibitions
 
@@ -36,6 +39,9 @@ Digitalization of books, magazines and prints
 
 ##### 2015-
 Doctoral fellowship by the Berlin Graduate School of Ancient Studies within the program Ancient Languages and Texts (ALT).
+
+##### 2017
+Einstein Stiftung grant for research stay in United Kingdom.
 
 ##### 2007-2011
 Polish Ministry of Science and Higher Education scholarship
