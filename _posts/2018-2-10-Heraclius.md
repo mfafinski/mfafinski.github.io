@@ -2,7 +2,7 @@
 layout: post
 title: The Face of an Emperor
 image: /images/Hiob.jpg
-excerpt: "Heraclius must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. It also teaches us that we need a broader, more global perspective to uderstand our period."
+excerpt: "Heraclius must be one of my favourite emperors. His reign is the story of Late Antiquity and of its scope in a nutshell. It also teaches us that we need a broader, more global perspective to uderstand the period."
 ---
 
 Heraclius (c. 575 – February 11, 641) must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. It also teaches us that we need a broader, more global perspective to uderstand our period. An Armenian who rose to the throne in a rebellion against Phocas, he lost half the empire to the Persians, regained it all in (vain)glory only to see it fall into the hands of the ascendant Muslim armies and who became a hero of a Swahili epic a thousand years after his death. As it turns out the tragic quality of his life story was not lost to his contemporaries and one particular drawing might tell us a lot about how they have viewed him. We just need a bit of a broader perspective to see it.
