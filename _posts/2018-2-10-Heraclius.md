@@ -8,9 +8,9 @@ excerpt: "Heraclius must be one of my favourite emperors. His reign is the story
 Heraclius (c. 575 – February 11, 641) must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. An Armenian who rose to the throne in a rebellion against Phocas, he lost half the empire to the Persians, regained it all in (vain)glory only to see it fall into the hands of the ascendant Muslim armies and who became a hero of a Swahili epic a thousand years after his death. As it turns out the tragic quality of his life story was not lost to his contemporaries and one particular drawing might tell us a lot about how they have viewed him. We just need a bit of a broader perspective to see it.
 
 In the collections of National Library in Naples we can find a small Coptic manuscript from the 5th C., containing a version of the Book of Job (MS.I.B.18). On the last folio, in an empty space, somebody later on drew a group portrait. Four figures, one male and three females, in rich garments, looking directly at the reader.
-
+<p align="center">
 ![Drawing of Job and His Family Represented as Heraclius and His Family MS.I.B.18](/images/Hiob.jpg)
-
+</p>
 The figure with a halo is regal in statue: he wears a crown, a cuirass, high military boots and a *paludamentum* (a military cloak associated with the imperial garb). His beard is rounded, well trimmed and his hair is worn short. In his right hand he carries a kind of sceptre (that some authors have identified as a lance) and in his left an imperial orb, *sphaira*. If we had any doubts about his identity within the manuscript there is an inscription above saying "Job the Just": ⲇⲓⲕⲁⲓⲟⲥ, the term being a direct borrowing from Greek δίκαιος.
 
 The three women are smaller of statue but also richly dressed. One can also notice that there is just a little bit less detail in their drawings. The first two female figures (counting from the left) have what Breckenridge called "spherical coiffures" which are fastened by snoods and that in turn might indicate that they are married.
