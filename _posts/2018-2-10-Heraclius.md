@@ -60,5 +60,16 @@ Heraclius defeating the Persians. Tapestry from 8th C. Egypt, Ashmolean Museum
 
 The drawing from MS.I.B.18 is a kind of a gift. It shows us that binary interpretations might seem to be easier but ultimately might also obscure the multilayered meanings. It also stresses the need to view Late Antiquity from a more global, broader, non-Western perspective. This might be the only extant 7th C. political caricature that we know of and it was made in Africa, under a Coptic text and could have been influenced by a Jewish text, that survives in Coptic, Greek and Old Church Slavonic manuscripts. Global Byzantium if ever there was one.
 
+**Bibliography**
+Ainalov, Dmitrii Vlasevich. *The Hellenistic Origins of Byzantine Art.* Edited by Cyril Mango. Translated by Elizabeth Sobolevitch. New Brunswick, N.J. : Rutgers University Press, 1961.
+Breckenridge, James D. ‘Drawing of Job and His Family Represented as Heraclius and His Family’. In *Age of Spirituality: Late Antique and Early Christian Art, 3rd to 7th Century ; Catalogue of the Exhibition at The Metropolitan Museum of Art, November 19, 1977, through February 12, 1978*, edited by Kurt Weitzmann and Metropolitan Museum of Art. Princeton: Princeton Univ. Pr, 1979.
+Delbrück, Richard. *Die Consulardiptychen Und Verwandte Denkmäler.* Studien Zur Spätantiken Kunstgeschichte 2. Berlin: Walter de Gruyter, 1929.
+Haralambakis, Maria. *The Testament of Job: Text, Narrative and Reception History.* Library of Second Temple Studies 80. London: Bloomsbury, 2012.
+Kaegi, Walter Emil. Heraclius Emperor of Byzantium. Reprinted. Cambridge: Cambridge Univ. Press, 2007.
+Kühnel, Gustav. ‘Heracles and the Crusaders: Tracing the Path of a Royal Motif’. In *France and the Holy Land: Frankish Culture at the End of the Crusades*, edited by Daniel H. Weiss and Lisa Mahoney, 63–76. Parallax. Baltimore: Johns Hopkins University Press, 2004.
+Kurz, Otto. ‘An Alleged Portrait of Heraclius’. Byzantion 16, no. 1 (1942): 162–64.
+Tattam, Henry. *The Ancient Coptic Version of the Book of Job the Just.* W. Straker, 1846.
+
+
 [^1]: This translation into English is based on an early Slavonic translation. There are no surviving Latin witnesses of the text. I guess, yet another reason to introduce non-Western languages as a requirement on grad-level history courses.
 [^2]: Late Antique theology is insane.
