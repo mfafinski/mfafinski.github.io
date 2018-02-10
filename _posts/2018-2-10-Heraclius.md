@@ -2,10 +2,10 @@
 layout: post
 title: The Face of an Emperor
 image: /images/Hiob.jpg
-excerpt: "Heraclius must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. An Armenian who rose to the throne in a rebellion against Phocas, he lost half the empire to the Persians"
+excerpt: "Heraclius must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. It also teaches us that we need a broader, more global perspective to uderstand our period."
 ---
 
-Heraclius (c. 575 – February 11, 641) must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. An Armenian who rose to the throne in a rebellion against Phocas, he lost half the empire to the Persians, regained it all in (vain)glory only to see it fall into the hands of the ascendant Muslim armies and who became a hero of a Swahili epic a thousand years after his death. As it turns out the tragic quality of his life story was not lost to his contemporaries and one particular drawing might tell us a lot about how they have viewed him. We just need a bit of a broader perspective to see it.
+Heraclius (c. 575 – February 11, 641) must be one of my favourite emperors. His reign is the story of Late Antiquity and of its global scope in a nutshell. It also teaches us that we need a broader, more global perspective to uderstand our period. An Armenian who rose to the throne in a rebellion against Phocas, he lost half the empire to the Persians, regained it all in (vain)glory only to see it fall into the hands of the ascendant Muslim armies and who became a hero of a Swahili epic a thousand years after his death. As it turns out the tragic quality of his life story was not lost to his contemporaries and one particular drawing might tell us a lot about how they have viewed him. We just need a bit of a broader perspective to see it.
 
 In the collections of National Library in Naples we can find a small Coptic manuscript from the 5th C., containing a version of the Book of Job (MS.I.B.18). On the last folio, in an empty space, somebody later on drew a group portrait. Four figures, one male and three females, in rich garments, looking directly at the reader.
 
