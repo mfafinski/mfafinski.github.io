@@ -9,7 +9,7 @@ Heraclius (c. 575 – February 11, 641) must be one of my favourite emperors. Hi
 
 In the collections of National Library in Naples we can find a small Coptic manuscript from the 5th C., containing a version of the Book of Job (MS.I.B.18). On the last folio, in an empty space, somebody later on drew a group portrait. Four figures, one male and three females, in rich garments, looking directly at the reader.
 
-[![Drawing of Job and His Family Represented as Heraclius and His Family MS.I.B.18](/images/Hiob.jpg)]
+![Drawing of Job and His Family Represented as Heraclius and His Family MS.I.B.18](/images/Hiob.jpg)
 
 The figure with a halo is regal in statue: he wears a crown, a cuirass, high military boots and a *paludamentum* (a military cloak associated with the imperial garb). His beard is rounded, well trimmed and his hair is worn short. In his right hand he carries a kind of sceptre (that some authors have identified as a lance) and in his left an imperial orb, *sphaira*. If we had any doubts about his identity within the manuscript there is an inscription above saying "Job the Just": ⲇⲓⲕⲁⲓⲟⲥ, the term being a direct borrowing from Greek δίκαιος.
 
@@ -33,19 +33,19 @@ And by whom, you might ask, is Job taunted the most in the Testament of Job? By 
 
 [Haralambakis, p. 197][^1]
 
-The similarity with calamities that Hercalius suffered from hands of the Persians are striking.
+The similarity with calamities that Heraclius suffered from hands of the Persians are striking.
 
 So is that it? Is this just a picture of a biblical king that the Coptic scribe drew on an empty space? Not necessarily. What is perhaps crucial and escaped the critics like Kurz is the ability of Late Antique people to think in so many layers. The imperially-clad figure on the left can **simultaneously** be Job, Joab, king of Egypt, **and** emperor Heraclius. He is the king that went through hell to remerge victorious. He was taunted by the king of Persia, he "destroyed the God's church" (no doubt a Christian interpolation). This tradition was in all probability well-known to the Coptic scribe, who drew the portrait. Parallels were numerous and easy to spot.
 
 Interestingly this could allow us to date the drawing quite precisely and slightly differently than Delbrück. To fit the analogy Heraclius must have already been victorious in the war against Persia, but still not be defeated by incoming Muslim armies. Moreover in the image he is wearing still his distinctive rounded beard known to us from the earlier coins.
 
-[![Heraclius. Dumbarton Oaks](/images/Heraclius_coin_613.jpg)]
+![Heraclius. Dumbarton Oaks](/images/Heraclius_coin_613.jpg)
 Heraclius. Dumbarton Oaks Coin Collection
 
-[![Heraclius I and Heraclius Constantinus. Muenzkabinett SMB](/images/Heraclius_coin_625.jpg)]
+![Heraclius I and Heraclius Constantinus. Muenzkabinett SMB](/images/Heraclius_coin_625.jpg)
 Heraclius I and Heraclius Constantinus. Muenzkabinett SMB
 
-The issues from late 630s will have him have the long beard of a patriarch. Therefore *if* this was meant to be Hercalius-Job, the drawing must have been made sometime between c. 630 and c. 635. After that date analogy starts falling apart.
+The issues from late 630s will have him have the long beard of a patriarch. Therefore *if* this was meant to be Heraclius-Job, the drawing must have been made sometime between c. 630 and c. 635. After that date analogy starts falling apart.
 
 Heraclius' relationship with the Church in Egypt was complicated at best. His probably sincere attempt at compromise was ultimately rejected, but nevertheless his rule was probably seen as better than the Persian yoke. His persecution of the Monophysite party would fall only after the failure of his compromise idea of *ecthesis*, a bizarre compromise, which seemed to have depended simply on trying to ignore most problems.[^2] It is conceivable that for a short time after reconquest of Egypt from Persian hands he might have been seen by a Coptic scribe as Job the Just, Conqueror in Many Conquests.
 
@@ -55,11 +55,10 @@ Therefore we do not need to identify the figure in a binary way. He is simultane
 
 Heraclius was destined to have a long afterlife in later Muslim Egypt and Africa - he would be seen in those traditions as a just but flawed ruler. His non-binary image was to have a lasting legacy. It is worth here to mention the *Kyuo kya Hereḳali* - *The Book of Heraclius* a Swahili epic written in 1728 telling the story of Byzantine-Muslim wars, in which Heraclius emerges as a just, but ultimately defeated emperor.
 
-[![Heraclius Tapestry. Ashmolean Museum](/images/Heraclius_Tapestry.jpg)]
+![Heraclius Tapestry. Ashmolean Museum](/images/Heraclius_Tapestry.jpg)
 Heraclius defeating the Persians. Tapestry from 8th C. Egypt, Ashmolean Museum
 
 The drawing from MS.I.B.18 is a kind of a gift. It shows us that binary interpretations might seem to be easier but ultimately might also obscure the multilayered meanings. It also stresses the need to view Late Antiquity from a more global, broader, non-Western perspective. This might be the only extant 7th C. political caricature that we know of and it was made in Africa, under a Coptic text and could have been influenced by a Jewish text, that survives in Coptic, Greek and Old Church Slavonic manuscripts. Global Byzantium if ever there was one.
 
 [^1]: This translation into English is based on an early Slavonic translation. There are no surviving Latin witnesses of the text. I guess, yet another reason to introduce non-Western languages as a requirement on grad-level history courses.
 [^2]: Late Antique theology is insane.
-
