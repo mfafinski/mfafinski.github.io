@@ -21,7 +21,7 @@ So who is he? Is he Job or is he Heraclius? The caption says one thing the visua
 
 >This man hath been described in the Syriac book as having dwelt in the land of Ausis, on the borders of Idumea and Arabia: **and his name before was Jobab**; and he took an Arabian wife, and she bare him a son whose name was Enon. And his own father was Zara, who was of the sons of Esau, and his mother was Bozora, so that he was the fifth after Abraam. And these were the kings who reigned in  Edom, the country which he also ruled over: the first was Balak the son of Beor, and the name of his city was Dennaba: after Balak, **Jobab, who is called Job**: after him Asom who was the governor out of the country of Thaeman: and after him Adad the son of Arad, who destroyed Madiam, in the field of Moab; and the name of his city was Keththem. And his friends who came to him, Elisaph, a son of one of the sons of Esau the king of the Thaemanites, and Baldad, the king of the Sauchaeans, and Sophar, the king of the Minaeans.
 
-[Tattam 1843, p. 182-183]
+(Tattam 1843, p. 182-183)
 
 This equates Job with a king of Edom, Jobab. If this were the case we are looking here not at an emperor, but on an Old Testament king, who happens to *also* be Job. This interpretation has been put forward already in 1942 by Otto Kurz, who forcefully reputed any link with Heraclius, writing that since it can only be one or the other, it has to be **just** Job. Since Job also happened to have three daughters: Jemimah, Keziah and Keren-Happuch (Job 42:14) that would seem to be the final answer to the identity question.
 
@@ -31,7 +31,7 @@ And by whom, you might ask, is Job taunted the most in the Testament of Job? By 
 
 >Then the devil got to know my heart and turned into the king of Persia to (deceive) me. And he came to my city and gathered his servants and said to them: "This man Job [...] he totally destroyed God's church. I shall pass judgement on him against his deeds what he has done to the great God. All of you assemble, capture him and take all this wealth which is inside the house and also outside".
 
-[Haralambakis, p. 197][^1]
+(Haralambakis 2007, p. 197)[^1]
 
 The similarity with calamities that Heraclius suffered from hands of the Persians are striking.
 
@@ -43,6 +43,7 @@ Interestingly this could allow us to date the drawing quite precisely and slight
 Heraclius. Dumbarton Oaks Coin Collection
 
 ![Heraclius I and Heraclius Constantinus. Muenzkabinett SMB](/images/Heraclius_coin_625.jpg)
+
 Heraclius I and Heraclius Constantinus. Muenzkabinett SMB
 
 The issues from late 630s will have him have the long beard of a patriarch. Therefore *if* this was meant to be Heraclius-Job, the drawing must have been made sometime between c. 630 and c. 635. After that date analogy starts falling apart.
@@ -61,13 +62,20 @@ Heraclius defeating the Persians. Tapestry from 8th C. Egypt, Ashmolean Museum
 The drawing from MS.I.B.18 is a kind of a gift. It shows us that binary interpretations might seem to be easier but ultimately might also obscure the multilayered meanings. It also stresses the need to view Late Antiquity from a more global, broader, non-Western perspective. This might be the only extant 7th C. political caricature that we know of and it was made in Africa, under a Coptic text and could have been influenced by a Jewish text, that survives in Coptic, Greek and Old Church Slavonic manuscripts. Global Byzantium if ever there was one.
 
 **Bibliography**
+
 Ainalov, Dmitrii Vlasevich. *The Hellenistic Origins of Byzantine Art.* Edited by Cyril Mango. Translated by Elizabeth Sobolevitch. New Brunswick, N.J. : Rutgers University Press, 1961.
+
 Breckenridge, James D. ‘Drawing of Job and His Family Represented as Heraclius and His Family’. In *Age of Spirituality: Late Antique and Early Christian Art, 3rd to 7th Century ; Catalogue of the Exhibition at The Metropolitan Museum of Art, November 19, 1977, through February 12, 1978*, edited by Kurt Weitzmann and Metropolitan Museum of Art. Princeton: Princeton Univ. Pr, 1979.
+
 Delbrück, Richard. *Die Consulardiptychen Und Verwandte Denkmäler.* Studien Zur Spätantiken Kunstgeschichte 2. Berlin: Walter de Gruyter, 1929.
+
 Haralambakis, Maria. *The Testament of Job: Text, Narrative and Reception History.* Library of Second Temple Studies 80. London: Bloomsbury, 2012.
 Kaegi, Walter Emil. Heraclius Emperor of Byzantium. Reprinted. Cambridge: Cambridge Univ. Press, 2007.
+
 Kühnel, Gustav. ‘Heracles and the Crusaders: Tracing the Path of a Royal Motif’. In *France and the Holy Land: Frankish Culture at the End of the Crusades*, edited by Daniel H. Weiss and Lisa Mahoney, 63–76. Parallax. Baltimore: Johns Hopkins University Press, 2004.
+
 Kurz, Otto. ‘An Alleged Portrait of Heraclius’. Byzantion 16, no. 1 (1942): 162–64.
+
 Tattam, Henry. *The Ancient Coptic Version of the Book of Job the Just.* W. Straker, 1846.
 
 
