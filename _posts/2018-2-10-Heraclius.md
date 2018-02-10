@@ -44,7 +44,7 @@ Heraclius. Dumbarton Oaks Coin Collection
 
 ![Heraclius I and Heraclius Constantinus. Muenzkabinett SMB](/images/Heraclius_coin_625.jpg)
 
-Heraclius I and Heraclius Constantinus. Muenzkabinett SMB
+Heraclius I and Heraclius Constantinus. Münzkabinett SMB
 
 The issues from late 630s will have him have the long beard of a patriarch. Therefore *if* this was meant to be Heraclius-Job, the drawing must have been made sometime between c. 630 and c. 635. After that date analogy starts falling apart.
 
@@ -57,7 +57,7 @@ Therefore we do not need to identify the figure in a binary way. He is simultane
 Heraclius was destined to have a long afterlife in later Muslim Egypt and Africa - he would be seen in those traditions as a just but flawed ruler. His non-binary image was to have a lasting legacy. It is worth here to mention the *Kyuo kya Hereḳali* - *The Book of Heraclius* a Swahili epic written in 1728 telling the story of Byzantine-Muslim wars, in which Heraclius emerges as a just, but ultimately defeated emperor.
 
 ![Heraclius Tapestry. Ashmolean Museum](/images/Heraclius_Tapestry.jpg)
-Heraclius defeating the Persians. Tapestry from 8th C. Egypt, Ashmolean Museum
+Heraclius defeating the Persians. Tapestry from 8th C. Egypt, Victoria and Albert Museum, London
 
 The drawing from MS.I.B.18 is a kind of a gift. It shows us that binary interpretations might seem to be easier but ultimately might also obscure the multilayered meanings. It also stresses the need to view Late Antiquity from a more global, broader, non-Western perspective. This might be the only extant 7th C. political caricature that we know of and it was made in Africa, under a Coptic text and could have been influenced by a Jewish text, that survives in Coptic, Greek and Old Church Slavonic manuscripts. Global Byzantium if ever there was one.
 
