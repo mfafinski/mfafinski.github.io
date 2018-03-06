@@ -1,7 +1,7 @@
 ---
 layout: post
-title: We are losing a generation
-image: image: /images/avatar.jpg
+title: We are losing a generation 
+image: /images/avatar.jpg
 excerpt: "This crisis has its roots much deeper and its reach is much broader than it might be evident at the first glance. At its root lies the commodification of Higher Education. We started treating universities as providers of services that are supposed to operate inside the capitalist market economy and it will have grave consequences."
 ---
 
