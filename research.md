@@ -35,9 +35,17 @@ Mateusz Fafinski, “Przez ciemności ku światłu – katabaza antyczna w legen
 
 Mateusz Fafinski, “Od kościoła do targu. Wschodniopruska mała ojczyzna w ‘Dzieciach Jerominów’ Ernsta Wiecherta”, in: Podteksty 4/ 18 (2010). [read online](http://podteksty.amu.edu.pl/podteksty/?action=dynamic&nr=19&dzial=4&id=410)
 
-Conferences and workshops
+Conferences, invited lectures and workshops
 ---
 **2018**
+
+8th Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History, Berlin, June 2018
+
+`Imperial Undertaking? The Symbolic Landscape of Conversion in Anglo-Saxon England`
+
+Parker on the Web 2.0, Stanford CA, March 2018
+
+`Gospels of St Augustine (MS286) and the Old English Bede (MS41) as text in perpetual translation`
 
 Social Tensions Between Kinship and Community in the Middle Ages, Frankfurt am Main, January 2018
 
