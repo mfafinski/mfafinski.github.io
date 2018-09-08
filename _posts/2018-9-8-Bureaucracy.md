@@ -2,7 +2,7 @@
 layout: post
 title: A historian among the bureaucrats 
 image: /images/creative.jpg
-excerpt: "Reinventing bureaucracy is a process as long as state itself. Seeing it not as something exceptional but as something that has multiple historical parallels. The problem of who is a bureaucrat in the complicated state/business/society interface, where their loyalties and obligations lie was for example very much a feature of letter of late antique literati"
+excerpt: "Reinventing bureaucracy is a process as old as the state itself. Seeing it not as something exceptional, but as something that has multiple historical parallels might help in this process. The problem of who is a bureaucrat in the complicated state/business/society interface, where their loyalties and obligations lie was for example very much a feature in the letters of late antique literati. We can use this knowledge today."
 ---
 
 Researchers don't think enough about administration. We tend to look at bureaucracy as the most evil thing that was ever created [^1]. What about looking at it as a thing that can be changed, moreover, a thing that one can get involved in? With this mindset I ended up at the Creative Bureaucracy festival at Humboldt University in Berlin.
@@ -22,7 +22,7 @@ Let me elaborate. The overwhelming feeling I got here was the drive to reclaim t
 
 ![Creative Bureaucracy Festival](/images/creative.jpg)
 
-Reinventing bureaucracy is a process as long as state itself. Seeing it not as something exceptional but as something that has multiple historical parallels might help in this process. The problem of *who* is a bureaucrat in the complicated state/business/society interface, where their loyalties and obligations lie was for example very much a feature of letter of late antique *literati* like Sidonius Apollinaris.
+Reinventing bureaucracy is a process as old as the state itself. Seeing it not as something exceptional but as something that has multiple historical parallels might help in this process. The problem of *who* is a bureaucrat in the complicated state/business/society interface, where their loyalties and obligations lie was for example very much a feature of letter of late antique *literati* like Sidonius Apollinaris.
 
 Defining and dealing with a "failed state" is something with which every historian of late antique and early medieval administration or urbanity (and also many other periods and disciplines) grapples on every step of their research. Those experiences can be directly applied to the problems of today. They can contribute to creative and conceptual work of today's bureaucrats. Historians can help to problematise their struggles to make their task and their vocation anchored in fabric of the public discourse. "Design thinking", "creative thinking" and "innovative thinking" have appeared as slogans on almost every step. It is worth adding to this set the idea of "historical thinking". Historians deal with massive amounts of documents, many of them administrative, on a daily basis. Digital humanists, like myself, struggle with data mining, archive visualisation and management and the digital transformation of our field. We are used to ask fundamental and conceptual questions about those processes. As much as we still have a lot to do, we have answered some of them already. We can share those experiences both from the historical and digital perspective.
 
