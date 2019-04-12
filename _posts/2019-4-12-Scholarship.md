@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing Scholarship on Twitter 
-image: /images/avatar.jpg
+image: /images/Felhin.jpg
 excerpt: "Writing scholarship on Twitter forces us to be precise, open, and engaging. It gives us an amazing opportunity to amplify voices that otherwise would have a hard time finding their way into “traditional” venues. It is a great training ground for making your research attractive to the wider public. Moreover, our students are on Twitter and we should be where they are, because their feedback is crucial."
 ---
 
