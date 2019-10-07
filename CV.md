@@ -5,7 +5,10 @@ title: Vita
 
 ### LIFE IN ACADEMIA
 ---
-##### 2015-		PhD Program, Freie Universität Berlin, Topoi
+##### 2018-		TextTechnologies Fellow, Stanford University
+Research on medieval manuscripts in the digital sphere
+
+##### 2015-2018		PhD Program, Freie Universität Berlin, Topoi
 PhD thesis on Late Antique and Early Medieval Britain
 
 ##### 2017 (Fall Term)	University College London, Insitute of Archaeology
