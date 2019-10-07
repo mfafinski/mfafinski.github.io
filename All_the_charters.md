@@ -1,24 +1,11 @@
-Early Medieval Charters in England with Roman Roads
-================
-
-``` r
-library(leaflet)
-library(RColorBrewer)
-test2 <- read.csv("charters_database_localised.csv")
-test2 <- test2[!is.na(test2$lat),]
-pal <- colorNumeric("GnBu", test2$date)
-m <- leaflet(test2) %>%
-  addProviderTiles("Hydda.Base") %>%
-  addCircleMarkers(clusterOptions = markerClusterOptions(), test2$lon, test2$lat, radius = 7, weight = 1, color = "#777777", fillOpacity = 0.5,
-                   fillColor = ~pal(date),
-                   popup=~paste("<strong>", number, "</strong>", "<br>",
-                                "date:", date,"<br>", "Archive location",
-                                archive_location)) %>%
-  addLegend(position = "topright",
-            pal = pal, values = ~date) %>%
-  fitBounds(~min(lon), ~min(lat), ~max(lon), ~max(lat))
-m
-```
+---
+title: "Early Medieval Charters in England with Roman Roads"
+layout: page
+linktormd: true
+leafletmap: true
+always_allow_html: yes
+output: github_document
+---
 
 <!--html_preserve-->
 
