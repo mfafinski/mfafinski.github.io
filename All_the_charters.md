@@ -1,10 +1,9 @@
 ---
 title: "Early Medieval Charters in England with Roman Roads"
-layout: page
+layout: post
 linktormd: true
 leafletmap: true
 always_allow_html: yes
-output: github_document
 ---
 
 <!--html_preserve-->
