@@ -1,9 +1,11 @@
+---
 title: "Digital Portfolio"
 layout: post
 linktormd: true
 leafletmap: true
 always_allow_html: yes
 output: github_document
+---
 
 ``` r
 library(leaflet)
