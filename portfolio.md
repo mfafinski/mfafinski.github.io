@@ -7,42 +7,6 @@ always_allow_html: yes
 output: github_document
 ---
 
-``` r
-library(leaflet)
-library(RColorBrewer)
-library(htmlwidgets)
-library(htmltools)
-test2 <- read.csv("charters_database_localised.csv")
-test2 <- test2[!is.na(test2$lat),]
-pal <- colorNumeric("GnBu", test2$date)
-tag.map.title <- tags$style(HTML("
-  .leaflet-control.map-title {
-    transform: translate(-50%,20%);
-    position: fixed !important;
-    left: 50%;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    background: rgba(255,255,255,0.75);
-    font-weight: bold;
-    font-size: 18px;
-  }"))
-
-title <- tags$div(
-  tag.map.title, HTML("Early Medieval Charters in England"))
-m <- leaflet(test2) %>%
-  addProviderTiles("NLS") %>%
-  addControl(title, position = "topleft", className="map-title") %>%
-  addCircleMarkers(clusterOptions = markerClusterOptions(), ~lon, ~lat, radius = 20, weight = 5, color = "#777777", fillOpacity = 0.8,
-                   fillColor = ~pal(date),
-                   popup=paste("<strong>","S", test2$number, "</strong>", "<br>",
-                                "date:", test2$date,"<br>", "Archive location:",
-                                test2$archive_location,"<br>","Estate location:", test2$estate_location, "<br>", paste("<a href =https://esawyer.lib.cam.ac.uk/charter/", test2$number, ".html", ">","Electronic Sawyer Link", "</a>", sep = "") )) %>%
-  addLegend(position = "topright",
-            pal = pal, values = ~date) %>%
-  fitBounds(~min(lon), ~min(lat), ~max(lon), ~max(lat))
-m
-```
 
 Interactive Atlas of Early Medieval Charters in England
 ---
