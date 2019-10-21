@@ -34,6 +34,13 @@ A method developed for the Stanford TextTechnologies project, which aims to anal
 
 ![Duc du Berry](/images/board.png)
 
+Data density change over time in medieval and early modern manuscripts
+---
+
+A visualisation developed of the analysis of data density in paper manuscripts post-1000 for the Stanford TextTechnologies project, incorporating over 200 000 data points from [Schoeneberg Database of Manuscripts](https://sdbm.library.upenn.edu/).
+
+![Lines Density](/images/Number_Lines_paper.png)
+
 Dating manuscript witnesses
 ---
 
