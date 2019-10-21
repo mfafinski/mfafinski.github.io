@@ -20,7 +20,7 @@ An interactive map allowing the user to explore the rich world of Early Medieval
 <!--/html_preserve-->
 
 
-Authencity of charters according to archive
+Authenticity of charters according to archive
 ---
 
 A method of visualising scholarly consensus on authenticity of medieval documents.
