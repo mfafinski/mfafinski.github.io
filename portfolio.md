@@ -4,14 +4,18 @@ layout: post
 linktormd: true
 leafletmap: true
 always_allow_html: yes
+include read_time.html: false
 output: github_document
 ---
+
+
 
 
 Interactive Atlas of Early Medieval Charters in England
 ---
 
-An interactive map allowing the user to explore the rich world of Early Medieval documents. Combining textual and cartographic data it is build in R.
+
+In my PhD research I have created an interactive map of all the Early Medieval charters in England (over 1200 documents, containing more than 2 million characters). The map incorporates data from previous written editions, automatically scrapped. The  estates are semi-automatically geolocated: the geographical names are extracted from the text using a dictionary of English place names and their longitude and latitude is established using a script working with OpenStreetMaps API. The topographical layer incorporates the open source topographical maps from the National Library of Scotland. The final visualisation is build in R and styled using mixed markdown/HTML and linked to the main database of Early Medieval charters, the [Electronic Sawyer](https://esawyer.lib.cam.ac.uk).
 
 <!--html_preserve-->
 
@@ -20,30 +24,40 @@ An interactive map allowing the user to explore the rich world of Early Medieval
 <!--/html_preserve-->
 
 
-Authenticity of charters according to archive
+Data density change over time in medieval and early modern manuscripts
 ---
 
-A method of visualising scholarly consensus on authenticity of medieval documents.
 
-![Charters Authencity](/images/plotauth.jpg)
+A visualisation developed of the analysis of data density in paper manuscripts post-1000 for the Stanford TextTechnologies project, incorporating over 200 000 data points from [Schoeneberg Database of Manuscripts](https://sdbm.library.upenn.edu/). The graph shows how due to various circumstances texts became less or more dense. Various factors could have been at play, but looking at the chronology we can see how in times of stress (like the Black Death in mid-1300) texts became denser.
+
+![Lines Density](/images/Number_Lines_paper.png)
+
+
 
 Analysis of color palettes using k-means clustering
 ---
 
-A method developed for the Stanford TextTechnologies project, which aims to analyze color palettes of historical illustrations in order to compare chromatic choices across time and space.
+
+What if we could compare historical illustrations in order to date them? This method, developed for the Stanford TextTechnologies project,  aims to analyse colour palettes of historical illustrations in order to compare chromatic choices across time and space. By creating k-means clustered palettes we can not only recognise prevalent palettes in various epochs but also trace the evolution of colour choices. Moreover, we can analyse which colours were most commonly paired.
 
 ![Duc du Berry](/images/board.png)
 
-Data density change over time in medieval and early modern manuscripts
+
+
+Authenticity of charters according to archive
 ---
 
-A visualisation developed of the analysis of data density in paper manuscripts post-1000 for the Stanford TextTechnologies project, incorporating over 200 000 data points from [Schoeneberg Database of Manuscripts](https://sdbm.library.upenn.edu/).
 
-![Lines Density](/images/Number_Lines_paper.png)
+A novel method to analyse the authenticity consensus on historical documents, involving treating scholarly opinion as a sentiment. After establishing a scalar dictionary, which assigns various set expressions a numerical value, it was possible to visualise how scholars in the past 60 years looked at the authenticity of Early Medieval English documents.
+
+![Charters Authencity](/images/plotauth.jpg)
+
+
 
 Dating manuscript witnesses
 ---
 
-Comparison of various copies of the same text across more than five centuries.
+
+Rarely do we have manuscripts that are precisely dated. This dumbbell chart shows a comparison of various copies of the same text across more than five centuries, using a script that automatically scrapes digitalised catalogues to extract and visualise sets according to a set of factors (author, geographical distribution, library).
 
 ![Manuscript Dates](/images/dates_Bede.jpg)
