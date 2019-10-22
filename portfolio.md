@@ -1,6 +1,6 @@
 ---
 title: "Digital Portfolio"
-layout: post
+layout: page
 linktormd: true
 leafletmap: true
 always_allow_html: yes
