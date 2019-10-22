@@ -7,7 +7,8 @@ always_allow_html: yes
 read_time.html: false
 output: github_document
 ---
-<p>&nbsp;</p>
+
+
 Interactive Atlas of Early Medieval Charters in England  
 ---
 
