@@ -9,7 +9,7 @@ output: github_document
 ---
 
 
-####Interactive atlas of Early Medieval Charters in England  
+#### Interactive atlas of Early Medieval Charters in England  
 
 
 In my PhD research I have created an interactive map of all the Early Medieval charters in England (over 1200 documents, containing more than 2 million characters). The map incorporates data from previous written editions, automatically scrapped. The  estates are semi-automatically geolocated: the geographical names are extracted from the text using a dictionary of English place names and their longitude and latitude is established using a script working with OpenStreetMaps API. The topographical layer incorporates the open source topographical maps from the National Library of Scotland. The final visualisation is build in R and styled using mixed markdown/HTML and linked to the main database of Early Medieval charters, the [Electronic Sawyer](https://esawyer.lib.cam.ac.uk), allowing further exploration of text.
@@ -21,7 +21,7 @@ In my PhD research I have created an interactive map of all the Early Medieval c
 <!--/html_preserve-->
 <p>&nbsp;</p>
 
-####Data density change over time in medieval and early modern manuscripts  
+#### Data density change over time in medieval and early modern manuscripts  
 
 A visualisation developed of the analysis of data density in paper manuscripts post-1000 for the Stanford TextTechnologies project, incorporating over 200 000 data points from [Schoeneberg Database of Manuscripts](https://sdbm.library.upenn.edu/). The graph shows how due to various circumstances texts became less or more dense. Various factors could have been at play, but looking at the chronology we can see how in times of stress (like the Black Death in mid-1300) texts became denser.
 <p>&nbsp;</p>
@@ -29,7 +29,7 @@ A visualisation developed of the analysis of data density in paper manuscripts p
 <p>&nbsp;</p>
 
 
-####Analysis of color palettes using k-means clustering  
+#### Analysis of color palettes using k-means clustering  
 
 What if we could compare historical illustrations in order to date them? This method, developed for the Stanford TextTechnologies project,  aims to analyse colour palettes of historical illustrations in order to compare chromatic choices across time and space. By creating k-means clustered palettes we can not only recognise prevalent palettes in various epochs but also trace the evolution of colour choices. Moreover, we can analyse which colours were most commonly paired.
 <p>&nbsp;</p>
@@ -37,7 +37,7 @@ What if we could compare historical illustrations in order to date them? This me
 <p>&nbsp;</p>
 
 
-####Authenticity of charters according to archive  
+#### Authenticity of charters according to archive  
 
 A novel method to analyse the authenticity consensus on historical documents, involving treating scholarly opinion as a sentiment. After establishing a scalar dictionary, which assigns various set expressions a numerical value, it was possible to visualise how scholars in the past 60 years looked at the authenticity of Early Medieval English documents.
 <p>&nbsp;</p>
@@ -45,7 +45,7 @@ A novel method to analyse the authenticity consensus on historical documents, in
 <p>&nbsp;</p>
 
 
-####Dating manuscript witnesses  
+#### Dating manuscript witnesses  
 
 
 Rarely do we have manuscripts that are precisely dated. This dumbbell chart shows a comparison of various copies of the same text across more than five centuries, using a script that automatically scrapes digitalised catalogues to extract and visualise sets according to a set of factors (author, geographical distribution, library).
