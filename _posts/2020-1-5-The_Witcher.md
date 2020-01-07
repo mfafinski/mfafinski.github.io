@@ -5,6 +5,8 @@ image: /images/Hmmm.png
 excerpt: "Many reviewers  have told us that the Witcher is confusing and if it were so it was a grevious fault. While this critique is, to a certain extent, appropriate, it is mostly exaggerated and this exaggeration has interesting roots. To uncover them we need to go way back, back to where it all starts. To the expectation of the medieval."
 ---
 
+Follow me on twitter [@Calthalas](https://twitter.com/Calthalas)
+
 The thicket of non-linear storytelling that greets us in the first series of the Witcher can be extremely daunting. We jump between characters, locations and years. Cintra. Brokilon. Blaviken. Ciri. Stregobor. Calanthe. Yennefer. Geralt. Faced with this strange world presented in a strange way we desperately seek the familiar. We try to default to what we know, to a familiarity. We try to escape the uncanny.
 
 For some this labyrinth of motifs, characters and locations was too much. Many reviewers dismissed The Witcher as chaotic and difficult to follow. The reviewers have told us that the Witcher is confusing and if it were so it was a grevious fault. While this critique is, to a certain extent, appropriate, it is mostly exaggerated and this exaggeration has interesting roots. To uncover them we need to go way back, back to where it all starts.
