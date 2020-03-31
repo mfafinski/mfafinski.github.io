@@ -6,7 +6,7 @@ layout: page
 Publications
 ---
 
-####Books:
+Books:
 
 Beowulf by All, ed. by Jeannie Abbott, Elaine Treharne and Mateusz Fafinski (Leeds: ARC tba)
 
