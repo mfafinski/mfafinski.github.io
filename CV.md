@@ -5,7 +5,14 @@ title: Vita
 
 ### LIFE IN ACADEMIA
 ---
-##### 2018-		TextTechnologies Fellow, Stanford University
+
+##### 2020 (March-)		Postdoctoral Researcher, University of Lausanne
+Uncertainty in historical data on the example of the early medieval narrative histories.
+
+##### 2020 (January-March)		Fellow, Trierer Kolleg für Mittelalter und Frühe Neuzeit, University of Trier
+Distribution and localisation of medieval manuscripts of late antique authors.
+
+##### 2018-2019		TextTechnologies Fellow, Stanford University
 Research on medieval manuscripts in the digital sphere
 
 ##### 2015-2018		PhD Program, Freie Universität Berlin, Topoi
