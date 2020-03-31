@@ -10,6 +10,10 @@ I do workshops and public lectures on the topics of medieval history, digital hu
 
 This website is build using Jekyll and hosted on GitHub.
 
+### Translation
+
+Apart from academia I am also a translator. You can view my portfolio [here](/translation.md)
+
 ### Follow me on twitter
 
 [@Calthalas](https://twitter.com/Calthalas)
