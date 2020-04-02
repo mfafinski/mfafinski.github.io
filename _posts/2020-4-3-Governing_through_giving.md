@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Governing through Giving: a Sneak Peek
+title: Governing through Giving. A Sneak Peek
 image: /images/avatar.jpg
 excerpt: "The process of giving embodies the role of the king as the regulating factor in the realm. Giving as a king is becoming a king. Kingship is a process not a state. And the main sources to this process, the main emanation of this activity that we have, are the charters. If we give them a little nudge and let them move they can reveal very interesting patterns."
 ---
@@ -19,7 +19,7 @@ The idea of governing through giving is one of the crucial elements of early med
 If we look at the reign of Edward the Confessor we can attempt a simple reconstruction of "the royal whereabouts". Those are very often reconstructed on the basis of the place of issue of royal charters.  
 The importance of the proximity relationship between the king and the ruling class is well illustrated if we superimpose those locations with the locations of the estates that are given away.
 
-![Edward's Wherabouts](/images/Edward_animate_Itinerary.gif)
+![The Wherabouts of Edward the Confessor](/images/Edward_animate_Itinerary.gif)
 
 When we look at this animation we can immediately spot the patterns of proximity. They make sense, when we think about the process of petitioning for a charter and the itinerant nature of medieval kingship. But we can also see how certain places are associated with more grants, perhaps, if we were so bold to hypothesise, because of their role and significance (and their connectivity). We can also spot the hotspots of Edward's reign, especially at the very beginning, when giving in order to facilitate becoming a king is especially pronounced.
 
