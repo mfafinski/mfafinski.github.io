@@ -10,13 +10,17 @@ Follow me on twitter [@Calthalas](https://twitter.com/Calthalas)
 ## It's good to be a king, sort of
 
 I am now working a lot on uncertainty in historical data. And of course I could not pass the occasion to combine this research with my all time favourite - charters!  
+
 While my long-standing project on an interactive atlas of early medieval charters in Britain is still very much in development (although one can expect more frequent updates soon) here is a little sneak peek into it. In order to show that charters are a very dynamic resources let us talk itineraries.  
+
 Some royal itineraries are extremely detailed and allow us to trace the royal progress in great detail. But in case of the pre-1066 rulers of England such data is simply not accessible. What we call "itineraries" are very often just singular locations and those often conjectured. German has a great term for it, that works so much better for such uncertain data than "itinerary": "die Aufenthaltsorte". The whereabouts.
 
 ## The Royal Whereabouts
 
 The idea of governing through giving is one of the crucial elements of early medieval governance.[^1] It embodies one of the crucial actualisations of the early medieval *do ut des* - I give, so that you may give. This process is much more complicated than a simple reciprocal relationship between the king and the landowning class and does not always entail a transfer of land. It actually embodies the role of the king as the regulating factor in the realm. Giving as a king is becoming a king. Kingship is a process not a state. And the main sources to this process, the main emanation of this activity that we have, are the charters.  
+
 If we look at the reign of Edward the Confessor we can attempt a simple reconstruction of "the royal whereabouts". Those are very often reconstructed on the basis of the place of issue of royal charters.  
+
 The importance of the proximity relationship between the king and the ruling class is well illustrated if we superimpose those locations with the locations of the estates that are given away.
 
 ![The Wherabouts of Edward the Confessor](/images/Edward_animate_Itinerary.gif)
@@ -32,7 +36,9 @@ Perhaps we can also start thinking differently about the geographical extents of
 ![A Reign of Influence](/images/Influence.png)
 
 ## A note on methodology
-This is just a little snippet of what "animated charters" can do and what hopefully the atlas of early medieval charters in Britain will enable. Of over 160 writs and charters only the charters with an identifiable estate or benefice location are inlcuded, bringing their number to little over a 100. After excluding the obviously spurious charters we arrive at little over 80. Of course we can never forget loss: we have lost most of the charters north of the Humber and many charters are lost. In a way, we are mapping here not only our surviving charters but also our narrative about Edward's reign.  Edward's itinerary is based on the work of Oleson and the charter data. I have included the [S1061](https://esawyer.lib.cam.ac.uk/charter/1061.html) from 1027 x 1035, which is of contested authenticity, but which Keynes has seen as possibly being not spurious. The little animation that you are seeing is done in R and moves thanks to the [gganimate](https://github.com/thomasp85/gganimate) package.
+This is just a little snippet of what "animated charters" can do and what hopefully the atlas of early medieval charters in Britain will enable. Of over 160 writs and charters only the charters with an identifiable estate or benefice location are inlcuded, bringing their number to little over a 100. After excluding the obviously spurious charters we arrive at little over 80. Of course we can never forget loss: we have lost most of the charters north of the Humber and many charters are lost. In a way, we are mapping here not only our surviving charters but also our narrative about Edward's reign. There is a high level of uncertainty to be modelled and factored in when making (and interpreting) those maps.
+
+Edward's itinerary is based on the work of Oleson and the charter data. I have included the [S1061](https://esawyer.lib.cam.ac.uk/charter/1061.html) from 1027 x 1035, which is of contested authenticity, but which Keynes has seen as possibly being not spurious. The little animation that you are seeing is done in R and moves thanks to the [gganimate](https://github.com/thomasp85/gganimate) package.
 
 ## Bibliography
 
