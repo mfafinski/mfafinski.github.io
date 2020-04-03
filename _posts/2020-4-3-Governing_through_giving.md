@@ -15,16 +15,24 @@ Some royal itineraries are extremely detailed and allow us to trace the royal pr
 
 ## The Royal Whereabouts
 
-The idea of governing through giving is one of the crucial elements of early medieval governance.[^1] It embodies one of the crucial actualisations of the early medieval *do ut des* - I give, so that you may give. This process is much more complicated than a simple reciprocal relationship between the king and the landowning class. It actually embodies the role of the king as the regulating factor in the realm. Giving as a king is becoming a king. Kingship is a process not a state. And the main sources to this process, the main emanation of this activity that we have, are the charters.  
+The idea of governing through giving is one of the crucial elements of early medieval governance.[^1] It embodies one of the crucial actualisations of the early medieval *do ut des* - I give, so that you may give. This process is much more complicated than a simple reciprocal relationship between the king and the landowning class and does not always entail a transfer of land. It actually embodies the role of the king as the regulating factor in the realm. Giving as a king is becoming a king. Kingship is a process not a state. And the main sources to this process, the main emanation of this activity that we have, are the charters.  
 If we look at the reign of Edward the Confessor we can attempt a simple reconstruction of "the royal whereabouts". Those are very often reconstructed on the basis of the place of issue of royal charters.  
 The importance of the proximity relationship between the king and the ruling class is well illustrated if we superimpose those locations with the locations of the estates that are given away.
 
 ![The Wherabouts of Edward the Confessor](/images/Edward_animate_Itinerary.gif)
 
-When we look at this animation we can immediately spot the patterns of proximity. They make sense, when we think about the process of petitioning for a charter and the itinerant nature of medieval kingship. But we can also see how certain places are associated with more grants, perhaps, if we were so bold to hypothesise, because of their role and significance (and their connectivity). We can also spot the hotspots of Edward's reign, especially at the very beginning, when giving in order to facilitate becoming a king is especially pronounced.
+When we look at this animation we can immediately spot the patterns of proximity. They make sense, when we think about the process of petitioning for a charter and the itinerant nature of medieval kingship. But we can also see how certain places are associated with more grants, perhaps, if we were so bold to hypothesise, because of their role and significance (and their connectivity). We can also notice the hotspots of Edward's reign. At the very beginning, when giving in order to facilitate becoming a king is especially pronounced; and after the turbulent years 1051-52.
+
+And here we have it, a reign in charters:
+
+![A Reign in Charters](/images/Edward_animate_Reign.gif)
+
+Perhaps we can also start thinking differently about the geographical extents of early medieval reigns (as opposed to kingdoms, for those would be two different concepts). Based on our (incomplete!) data, Edward's reign of influence would look something like that:
+
+![A Reign of Influence](/images/Influence.png)
 
 ## A note on methodology
-This is just a little snippet of what "animated charters" can do. Edward's itinerary is based on the work of Oleson and the charter data. I have included the [S1061](https://esawyer.lib.cam.ac.uk/charter/1061.html) from 1027 x 1035, which is of contested authenticity, but which Keynes has seen as possibly being not spurious. The little animation that you are seeing is done in R and moves thanks to the [gganimate](https://github.com/thomasp85/gganimate) package.
+This is just a little snippet of what "animated charters" can do and what hopefully the atlas of early medieval charters in Britain will enable. Of over 160 writs and charters only the charters with an identifiable estate or benefice location are inlcuded, bringing their number to little over a 100. After excluding the obviously spurious charters we arrive at little over 80. Of course we can never forget loss: we have lost most of the charters north of the Humber and many charters are lost. In a way, we are mapping here not only our surviving charters but also our narrative about Edward's reign.  Edward's itinerary is based on the work of Oleson and the charter data. I have included the [S1061](https://esawyer.lib.cam.ac.uk/charter/1061.html) from 1027 x 1035, which is of contested authenticity, but which Keynes has seen as possibly being not spurious. The little animation that you are seeing is done in R and moves thanks to the [gganimate](https://github.com/thomasp85/gganimate) package.
 
 ## Bibliography
 
