@@ -1,0 +1,48 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f1d355bc-765d-412b-bf3a-89dca1d069c9",
+	"@type": "sc:Manifest",
+	"label": "Library",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://bc09a628-18c6-4a46-bba2-526f28edc78f",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://2d7c1d9f-2e4f-4434-bbee-4fb6b609f8ae",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 0,
+					"width": 0,
+					"images": [],
+					"related": ""
+				},
+				{
+					"@id": "http://2a13a83a-ed84-4f4c-a00b-9ce286938a96",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 0,
+					"width": 0,
+					"images": [],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
