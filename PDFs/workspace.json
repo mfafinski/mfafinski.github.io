@@ -1,0 +1,426 @@
+{
+  "companionWindows": {
+    "cw-36806d60-049e-4076-a201-7253559bc642": {
+      "content": "info",
+      "default": true,
+      "id": "cw-36806d60-049e-4076-a201-7253559bc642",
+      "position": "left"
+    },
+    "cw-d7ee055f-61dc-453f-b2b4-056ec2fa4179": {
+      "content": "thumbnailNavigation",
+      "default": true,
+      "id": "cw-d7ee055f-61dc-453f-b2b4-056ec2fa4179",
+      "position": "off"
+    },
+    "cw-224760df-4abd-45d4-85fd-48835dee237b": {
+      "content": "info",
+      "default": true,
+      "id": "cw-224760df-4abd-45d4-85fd-48835dee237b",
+      "position": "left"
+    },
+    "cw-f208b7e4-c8da-4451-924f-46219cdcd0c0": {
+      "content": "thumbnailNavigation",
+      "default": true,
+      "id": "cw-f208b7e4-c8da-4451-924f-46219cdcd0c0",
+      "position": "off"
+    }
+  },
+  "config": {
+    "canvasNavigation": {
+      "height": 50,
+      "width": 50
+    },
+    "selectedTheme": "light",
+    "themes": {
+      "dark": {
+        "palette": {
+          "type": "dark",
+          "primary": {
+            "main": "#4db6ac"
+          },
+          "secondary": {
+            "main": "#4db6ac"
+          },
+          "shades": {
+            "dark": "#000000",
+            "main": "#424242",
+            "light": "#616161"
+          }
+        }
+      },
+      "light": {
+        "palette": {
+          "type": "light"
+        }
+      }
+    },
+    "theme": {
+      "palette": {
+        "type": "light",
+        "primary": {
+          "main": "#1967d2"
+        },
+        "secondary": {
+          "main": "#1967d2"
+        },
+        "shades": {
+          "dark": "#eeeeee",
+          "main": "#ffffff",
+          "light": "#f5f5f5"
+        },
+        "error": {
+          "main": "#b00020"
+        },
+        "notification": {
+          "main": "#ffa224"
+        },
+        "hitCounter": {
+          "default": "#bdbdbd"
+        },
+        "highlights": {
+          "primary": "#ffff00",
+          "secondary": "#00BFFF"
+        },
+        "section_divider": "rgba(0, 0, 0, 0.25)"
+      },
+      "typography": {
+        "body1": {
+          "fontSize": "1rem",
+          "letterSpacing": "0em",
+          "lineHeight": "1.6em"
+        },
+        "body2": {
+          "fontSize": "0.878rem",
+          "letterSpacing": "0.015em",
+          "lineHeight": "1.6em"
+        },
+        "button": {
+          "fontSize": "0.878rem",
+          "letterSpacing": "0.09em",
+          "lineHeight": "2.25rem",
+          "textTransform": "uppercase"
+        },
+        "caption": {
+          "fontSize": "0.772rem",
+          "letterSpacing": "0.033em",
+          "lineHeight": "1.6rem"
+        },
+        "body1Next": {
+          "fontSize": "1rem",
+          "letterSpacing": "0em",
+          "lineHeight": "1.6em"
+        },
+        "body2Next": {
+          "fontSize": "0.878rem",
+          "letterSpacing": "0.015em",
+          "lineHeight": "1.6em"
+        },
+        "buttonNext": {
+          "fontSize": "0.878rem",
+          "letterSpacing": "0.09em",
+          "lineHeight": "2.25rem"
+        },
+        "captionNext": {
+          "fontSize": "0.772rem",
+          "letterSpacing": "0.33em",
+          "lineHeight": "1.6rem"
+        },
+        "overline": {
+          "fontSize": "0.678rem",
+          "fontWeight": 500,
+          "letterSpacing": "0.166em",
+          "lineHeight": "2em",
+          "textTransform": "uppercase"
+        },
+        "h1": {
+          "fontSize": "2.822rem",
+          "letterSpacing": "-0.015em",
+          "lineHeight": "1.2em"
+        },
+        "h2": {
+          "fontSize": "1.575rem",
+          "letterSpacing": "0em",
+          "lineHeight": "1.33em"
+        },
+        "h3": {
+          "fontSize": "1.383rem",
+          "fontWeight": 300,
+          "letterSpacing": "0em",
+          "lineHeight": "1.33em"
+        },
+        "h4": {
+          "fontSize": "1.215rem",
+          "letterSpacing": "0.007em",
+          "lineHeight": "1.45em"
+        },
+        "h5": {
+          "fontSize": "1.138rem",
+          "letterSpacing": "0.005em",
+          "lineHeight": "1.55em"
+        },
+        "h6": {
+          "fontSize": "1.067rem",
+          "fontWeight": 400,
+          "letterSpacing": "0.01em",
+          "lineHeight": "1.6em"
+        },
+        "subtitle1": {
+          "fontSize": "0.937rem",
+          "letterSpacing": "0.015em",
+          "lineHeight": "1.6em",
+          "fontWeight": 300
+        },
+        "subtitle2": {
+          "fontSize": "0.878rem",
+          "fontWeight": 500,
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.75em"
+        },
+        "useNextVariants": true
+      },
+      "overrides": {
+        "MuiListSubheader": {
+          "root": {
+            "&[role=\"presentation\"]:focus": {
+              "outline": 0
+            }
+          }
+        },
+        "MuiTooltip": {
+          "tooltipPlacementLeft": {
+            "@media (min-width:600px)": {
+              "margin": 0
+            }
+          },
+          "tooltipPlacementRight": {
+            "@media (min-width:600px)": {
+              "margin": 0
+            }
+          },
+          "tooltipPlacementTop": {
+            "@media (min-width:600px)": {
+              "margin": 0
+            }
+          },
+          "tooltipPlacementBottom": {
+            "@media (min-width:600px)": {
+              "margin": 0
+            }
+          }
+        },
+        "MuiTouchRipple": {
+          "childPulsate": {
+            "animation": "none"
+          },
+          "rippleVisible": {
+            "animation": "none"
+          }
+        }
+      },
+      "props": {
+        "MuiButtonBase": {
+          "disableTouchRipple": true
+        },
+        "MuiLink": {
+          "underline": "always"
+        }
+      }
+    },
+    "language": "en",
+    "availableLanguages": {
+      "de": "Deutsch",
+      "en": "English",
+      "fr": "Français",
+      "ja": "日本語",
+      "nl": "Nederlands",
+      "pt-BR": "Português do Brasil",
+      "zh-CN": "中文(简体)",
+      "zh-TW": "中文(繁體)",
+      "it": "Italiano"
+    },
+    "displayAllAnnotations": false,
+    "resourceHeaders": {},
+    "translations": {},
+    "window": {
+      "allowClose": true,
+      "allowFullscreen": false,
+      "allowMaximize": true,
+      "allowTopMenuButton": true,
+      "allowWindowSideBar": true,
+      "authNewWindowCenter": "parent",
+      "defaultSideBarPanel": "info",
+      "defaultSidebarPanelWidth": 235,
+      "defaultView": "single",
+      "hideWindowTitle": false,
+      "showLocalePicker": false,
+      "sideBarOpenByDefault": false,
+      "panels": {
+        "info": true,
+        "attribution": true,
+        "canvas": true,
+        "annotations": true,
+        "search": true
+      }
+    },
+    "windows": [
+      {
+        "manifestId": "https://iiif.harvardartmuseums.org/manifests/object/299843",
+        "canvasId": "https://iiif.harvardartmuseums.org/manifests/object/299843/canvas/canvas-47174892",
+        "thumbnailNavigationPosition": "far-bottom"
+      },
+      {
+        "manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/e32a277e-91e2-4a6d-8ba6-cc4bad230410.json"
+      }
+    ],
+    "thumbnailNavigation": {
+      "defaultPosition": "off",
+      "height": 130,
+      "width": 100
+    },
+    "workspace": {
+      "exposeModeOn": false,
+      "height": 5000,
+      "showZoomControls": false,
+      "type": "mosaic",
+      "viewportPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "width": 5000
+    },
+    "workspaceControlPanel": {
+      "enabled": true
+    },
+    "galleryView": {
+      "height": 120,
+      "width": null
+    },
+    "osdConfig": {
+      "alwaysBlend": false,
+      "blendTime": 0.1,
+      "preserveImageSizeOnResize": true,
+      "preserveViewport": true,
+      "showNavigationControl": false
+    },
+    "id": "mirador",
+    "manifests": {
+      "https://media.nga.gov/public/manifests/nga_highlights.json": {
+        "provider": "National Gallery of Art"
+      },
+      "https://data.ucd.ie/api/img/manifests/ucdlib:33064": {
+        "provider": "Irish Architectural Archive"
+      },
+      "https://wellcomelibrary.org/iiif/b18035723/manifest": {
+        "provider": "Wellcome Library"
+      },
+      "https://demos.biblissima.fr/iiif/metadata/florus-dispersus/manifest.json": {
+        "provider": "Biblissima"
+      },
+      "https://www.e-codices.unifr.ch/metadata/iiif/gau-Fragment/manifest.json": {
+        "provider": "e-codices - Virtual Manuscript Library of Switzerland"
+      },
+      "https://wellcomelibrary.org/iiif/collection/b18031511": {
+        "provider": "Wellcome Library"
+      },
+      "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022508f/manifest.json": {
+        "provider": "Bibliothèque nationale de France"
+      },
+      "https://manifests.britishart.yale.edu/Osbornfa1": {
+        "provider": "Beinecke Rare Book and Manuscript Library, Yale University"
+      },
+      "https://iiif.biblissima.fr/chateauroux/B360446201_MS0005/manifest.json": {
+        "provider": "Biblissima"
+      },
+      "https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/manifest": {
+        "provider": "Durham University Library"
+      }
+    }
+  },
+  "elasticLayout": {
+    "window-64b4d4c4-ca02-42c0-9e11-2b6a3d296308": {
+      "windowId": "window-64b4d4c4-ca02-42c0-9e11-2b6a3d296308",
+      "height": 400,
+      "width": 400,
+      "x": 200,
+      "y": 200
+    },
+    "window-3f1e189d-aaf9-4e9f-bc51-4f2c1534b0d6": {
+      "windowId": "window-3f1e189d-aaf9-4e9f-bc51-4f2c1534b0d6",
+      "height": 400,
+      "width": 400,
+      "x": 230,
+      "y": 250
+    }
+  },
+  "viewers": {
+    "window-64b4d4c4-ca02-42c0-9e11-2b6a3d296308": {
+      "x": 3909,
+      "y": 2896,
+      "zoom": 0.00011007827788649706
+    }
+  },
+  "windows": {
+    "window-64b4d4c4-ca02-42c0-9e11-2b6a3d296308": {
+      "canvasId": "https://www.e-codices.unifr.ch/metadata/iiif/gau-Fragment/canvas/gau-Fragment_frag001b.json",
+      "collectionIndex": 0,
+      "companionAreaOpen": true,
+      "companionWindowIds": [
+        "cw-36806d60-049e-4076-a201-7253559bc642",
+        "cw-d7ee055f-61dc-453f-b2b4-056ec2fa4179"
+      ],
+      "displayAllAnnotations": false,
+      "draggingEnabled": true,
+      "id": "window-64b4d4c4-ca02-42c0-9e11-2b6a3d296308",
+      "layoutOrder": 1,
+      "manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/gau-Fragment/manifest.json",
+      "maximized": false,
+      "rangeId": null,
+      "rotation": null,
+      "selectedAnnotations": {},
+      "sideBarOpen": false,
+      "sideBarPanel": "info",
+      "thumbnailNavigationId": "cw-d7ee055f-61dc-453f-b2b4-056ec2fa4179"
+    },
+    "window-3f1e189d-aaf9-4e9f-bc51-4f2c1534b0d6": {
+      "canvasId": "http://scale.ydc2.yale.edu/canvas/88994632-5ed4-4fde-9e37-802e98e6e711",
+      "collectionIndex": 0,
+      "companionAreaOpen": true,
+      "companionWindowIds": [
+        "cw-224760df-4abd-45d4-85fd-48835dee237b",
+        "cw-f208b7e4-c8da-4451-924f-46219cdcd0c0"
+      ],
+      "displayAllAnnotations": false,
+      "draggingEnabled": true,
+      "id": "window-3f1e189d-aaf9-4e9f-bc51-4f2c1534b0d6",
+      "layoutOrder": 2,
+      "manifestId": "https://manifests.britishart.yale.edu/Osbornfa1",
+      "maximized": false,
+      "rangeId": null,
+      "rotation": null,
+      "selectedAnnotations": {},
+      "sideBarOpen": false,
+      "sideBarPanel": "info",
+      "thumbnailNavigationId": "cw-f208b7e4-c8da-4451-924f-46219cdcd0c0"
+    }
+  },
+  "workspace": {
+    "draggingEnabled": true,
+    "id": "33536824-269b-44e4-9545-b1a459c9202e",
+    "exposeModeOn": false,
+    "height": 5000,
+    "showZoomControls": false,
+    "type": "mosaic",
+    "viewportPosition": {
+      "x": 0,
+      "y": 0
+    },
+    "width": 5000,
+    "focusedWindowId": "window-3f1e189d-aaf9-4e9f-bc51-4f2c1534b0d6",
+    "layout": {
+      "direction": "row",
+      "first": "window-64b4d4c4-ca02-42c0-9e11-2b6a3d296308",
+      "second": "window-3f1e189d-aaf9-4e9f-bc51-4f2c1534b0d6"
+    },
+    "isWorkspaceAddVisible": false
+  }
+}
