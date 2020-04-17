@@ -1,0 +1,376 @@
+{
+   "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://data.ucd.ie/api/img/collection/ivrla:10905",
+   "@type": "sc:Collection",
+   "label": "Papers of Michael Collins (1890-1922)",
+   "logo": "https://digital.ucd.ie/images/logos/ucd_logo_sm.png",
+   "description": "Papers of Michael Collins (1890-1922)",
+   "thumbnail": "https://digital.ucd.ie/get/ivrla:10905/thumbnail",
+   "seeAlso": [
+      {
+         "@id": "https://digital.ucd.ie/view/ivrla:10905.xml",
+         "format": "text/xml",
+         "profile": "http://www.loc.gov/mods/v3",
+         "label": "MODS metadata describing this object"
+      },
+      {
+         "@id": "https://digital.ucd.ie/view/ivrla:10905.n3",
+         "format": "text/rdf+n3",
+         "label": "RDF n3 serialisation of metadata describing this object"
+      },
+      {
+         "@id": "https://data.ucd.ie/api/edm/v1/ivrla:10905",
+         "format": "application/x.europeana-edm+xml",
+         "label": "EDM (Europeana Data Model) RDF metadata",
+         "profile": "http://www.europeana.eu/schemas/edm/"
+      },
+      {
+         "@id": "https://digital.ucd.ie/view/ivrla:10905.rdf",
+         "format": "application/rdf+xml",
+         "label": "RDF-XML metadata describing this object"
+      }
+    ],
+   "attribution": "UCD Archives",
+   "manifests": [
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:10906",
+        "@type": "sc:Manifest",
+        "label": "Homework instructions issued by King's College London, Civil Service Department."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:10946",
+        "@type": "sc:Manifest",
+        "label": "Algebra course documents issued by King's College London."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:10965",
+        "@type": "sc:Manifest",
+        "label": "King's College London arithmetic examination papers and answer papers completed by Michael Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:10979",
+        "@type": "sc:Manifest",
+        "label": "King's College London digest examination papers and digests completed by Michael Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:10996",
+        "@type": "sc:Manifest",
+        "label": "Composition examination paper issued by King's College with notes appended by Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:10999",
+        "@type": "sc:Manifest",
+        "label": "Essays written by Collins as College homework."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11050",
+        "@type": "sc:Manifest",
+        "label": "Geography notes and papers including several maps drawn by Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11120",
+        "@type": "sc:Manifest",
+        "label": "Geographical maps and drawings by Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11134",
+        "@type": "sc:Manifest",
+        "label": "'History Notes' [Textbook issued by King's College, London.]"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11170",
+        "@type": "sc:Manifest",
+        "label": "Examination paper on 'History to 1189'"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11173",
+        "@type": "sc:Manifest",
+        "label": "Four London County Council bookkeeping exercise books completed by Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11237",
+        "@type": "sc:Manifest",
+        "label": "Mathematics course papers including several documents written by Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11256",
+        "@type": "sc:Manifest",
+        "label": "'The Sloan-Duployan Phonographic Instructor.'"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11288",
+        "@type": "sc:Manifest",
+        "label": "Notebook containing dictionary type entries from A-I, by Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11322",
+        "@type": "sc:Manifest",
+        "label": "Writing specimen and copying exercises."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11392",
+        "@type": "sc:Manifest",
+        "label": "Circular letter from R. Hinks, College lecturer, to Collins concerning Excise and Customs examination."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11394",
+        "@type": "sc:Manifest",
+        "label": "Directive issued by King's College entitled 'Assistantships of Excise and Customs Evening Classes'."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11398",
+        "@type": "sc:Manifest",
+        "label": "Handwritten copy of timetables for evening classes."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11401",
+        "@type": "sc:Manifest",
+        "label": "Issue of Civil Service Hints. Vol. XXI, No. 9.] [Issue of Civil Service Hints. Vol. XXI, No. 10."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11420",
+        "@type": "sc:Manifest",
+        "label": "Programme for Feis Lonndan, 1907."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11430",
+        "@type": "sc:Manifest",
+        "label": "Reminder from D. O'Connor to S. Mac Cuirtin concerning money owed to An Cló-Chumann Ltd."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11432",
+        "@type": "sc:Manifest",
+        "label": "Letter from Domhnall Ó Conchobhair to S. Mac Cuirtin relating to An Cló-Chumann Ltd."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11434",
+        "@type": "sc:Manifest",
+        "label": "Letter from Mícheál Ua Donnchadha, Honorary Secretary, Connradh na Gaedhilge, to [Collins?] concerning Mr J. L. O'Sullivan."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11437",
+        "@type": "sc:Manifest",
+        "label": "Receipts issued by J.W. Conway to Collins concerning use of hall."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11448",
+        "@type": "sc:Manifest",
+        "label": "Connradh na Gaedhilge Certificate awarded to Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11450",
+        "@type": "sc:Manifest",
+        "label": "Letter from J. Harrisson to Collins concerning outstanding rent for playing field."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11454",
+        "@type": "sc:Manifest",
+        "label": "Letter from Collins to [A. Toley] concerning outstanding rent for playing field."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11457",
+        "@type": "sc:Manifest",
+        "label": "Memorandum from A. Toley to P. Belton concerning outstanding rent for playing field."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11460",
+        "@type": "sc:Manifest",
+        "label": "Draft letter from Collins to A. Toley concerning outstanding rent for playing field."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11463",
+        "@type": "sc:Manifest",
+        "label": "Note from A. Toley to Collins enclosing a receipt for rent of playing field."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11465",
+        "@type": "sc:Manifest",
+        "label": "Letter from P. Barrett to Dan Murphy, Captain of the Club's football team, concerning his resignation from the club."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11468",
+        "@type": "sc:Manifest",
+        "label": "Note from J.L. O'Sullivan to [Collins] concerning money owed for playing field, and Collins success in his examinations."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11470",
+        "@type": "sc:Manifest",
+        "label": "Letter from J.L. O'Sullivan to [Collins] advising that he will not be able to attend a meeting and apologising for losing the money to pay the rent for the playing field."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11473",
+        "@type": "sc:Manifest",
+        "label": "Letter from J.L. O'Sullivan to [Collins] enclosing money owed to the club."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11475",
+        "@type": "sc:Manifest",
+        "label": "Letter from J.S. O'Sullivan to Collins discussing match tickets and the previous day's hurling match."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11478",
+        "@type": "sc:Manifest",
+        "label": "Geraldine Club resolution concerning procurement of the Gaelic Athletic Annual in order to learn Irish terms used in Gaelic football and hurling."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11480",
+        "@type": "sc:Manifest",
+        "label": "Draft minute of a Geraldine Club meeting concerning GAA members who competed in the Olympic Games for England."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11482",
+        "@type": "sc:Manifest",
+        "label": "Letter from Hopkins and Hopkins to Michael Collins acknowledging receipt of funds."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11484",
+        "@type": "sc:Manifest",
+        "label": "Notes for Geraldine Club cashbook entries."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11493",
+        "@type": "sc:Manifest",
+        "label": "Copybook containing draft articles/speeches and minutes of a Geraldine Club meeting."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11507",
+        "@type": "sc:Manifest",
+        "label": "Draft response by Michael Collins to Tom Kettle's article in the 'Morning Leader' entitled 'The Vanished Land'."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11510",
+        "@type": "sc:Manifest",
+        "label": "Draft letter by Michael Collins entitled 'A Wail of Regret' concerning changes in Sinn Féin policy."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11513",
+        "@type": "sc:Manifest",
+        "label": "Letter of invitation from G. Coffey to Michael Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11515",
+        "@type": "sc:Manifest",
+        "label": "Letter from Mary Collins [sister] to Michael Collins concerning recent family activities."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11517",
+        "@type": "sc:Manifest",
+        "label": "Holograph letter from Siobháin Ní Chillín to Michael Collins discussing a camogie game."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11519",
+        "@type": "sc:Manifest",
+        "label": "Letter from Patrick Collins [brother] to Michael Collins concerning the possibility of Michael going to Chicago."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11523",
+        "@type": "sc:Manifest",
+        "label": "Letter from Kathleen Long to Michael Collins concerning her engagement and an accident."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11526",
+        "@type": "sc:Manifest",
+        "label": "Letter from F. [Merson] to Michael Collins regarding stockbroking firms."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11529",
+        "@type": "sc:Manifest",
+        "label": "Letter from Siobháin Ní Chillín to Michael Collins concerning her life in Dublin."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11532",
+        "@type": "sc:Manifest",
+        "label": "Letter from P.J. Dunne to Michael Collins concerning his cousin's wedding."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11535",
+        "@type": "sc:Manifest",
+        "label": "Monochrome picture postcard addressed to Michael Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11538",
+        "@type": "sc:Manifest",
+        "label": "Receipt from the Irish Industrial Co-Operative Society issued to Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11541",
+        "@type": "sc:Manifest",
+        "label": "Share Certificate issued by the Industrial Co-Operative Society to Michael Collins."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11543",
+        "@type": "sc:Manifest",
+        "label": "Holograph note entitled 'Sinn Féin'."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11546",
+        "@type": "sc:Manifest",
+        "label": "Calendar for 1908 and 1909."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11548",
+        "@type": "sc:Manifest",
+        "label": "Newspaper cuttings."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11563",
+        "@type": "sc:Manifest",
+        "label": "Photograph of the Oath of Allegiance taken by members of the Dáil."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11565",
+        "@type": "sc:Manifest",
+        "label": "'No. 17 The Fenians' [Page 2 and Page 3 of a composition on the Fenians.]"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11569",
+        "@type": "sc:Manifest",
+        "label": "Photograph of a list of ministers from the Dáil."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11571",
+        "@type": "sc:Manifest",
+        "label": "Photograph of a diary page containing appointments and expenses."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11573",
+        "@type": "sc:Manifest",
+        "label": "'Licence to carry and have arms (except revolver), and ammunition in a proclaimed district.' [Granted to Matthew Stafford, by Henry Keogh - magistrate.]"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11575",
+        "@type": "sc:Manifest",
+        "label": "Letter from the Lieut. and Adjt. 1st Bn. The King's Own Royal Regiment to Mr. M. Stafford concerning the storage of captured arms."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11577",
+        "@type": "sc:Manifest",
+        "label": "Monochrome picture postcard addressed to G. Smith, 9 Ladbroke Square."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11580",
+        "@type": "sc:Manifest",
+        "label": "'Mrs M.W. Lamaison to L.W.H. Lamaison ESQ: Copy. Power of Attorney.'"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11583",
+        "@type": "sc:Manifest",
+        "label": "Writing exercise, 'No. 248'."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11586",
+        "@type": "sc:Manifest",
+        "label": "'School of Art Sketch Book' [Cover only.]"
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11588",
+        "@type": "sc:Manifest",
+        "label": "Envelope with 'Algebra C. and Geometry (C) Solutions' written on it."
+     },
+     {
+      "@id": "https://data.ucd.ie/api/img/manifests/ivrla:11590",
+        "@type": "sc:Manifest",
+        "label": "'Minutes of Evidence Precis, No. 38, Minutes of Evidence taken before the Committee on Straits Settlements Currency, November 1902.'"
+    }
+   ]
+}
