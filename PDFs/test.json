@@ -1,0 +1,79 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://e715cce5-0e58-4f38-9335-69918c51d3bb",
+	"@type": "sc:Manifest",
+	"label": "Library",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://1c6c8899-6a31-4e23-950c-522d9663c362",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://db6069ff-b055-4dd0-80a6-afd8fc07cee9",
+					"@type": "sc:Canvas",
+					"label": "Library",
+					"height": 7373,
+					"width": 3222,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://47b2dff1-d602-4da6-9544-b2ecf9b15a17",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://content.staatsbibliothek-berlin.de/dc/733303528-0001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://content.staatsbibliothek-berlin.de/dc/733303528-0001",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"webp",
+												"tif"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"rotationArbitrary",
+												"profileLinkHeader",
+												"http://example.com/feature/"
+											]
+										}
+									]
+								},
+								"height": 7373,
+								"width": 3222
+							},
+							"on": "http://db6069ff-b055-4dd0-80a6-afd8fc07cee9"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
