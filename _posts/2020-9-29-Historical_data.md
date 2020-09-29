@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "A portrait of historical data"
+title:  "Historical data. A portrait"
 image: /images/Eyck.jpg
-excerpt: "Historical data is not your familiar kitten. It's a saber-toothed tiger that will eat you and your village of data scientists for breakfast if you don't treat it with respect."
+excerpt: "Historical data is not your familiar kitten. It is a saber-toothed tiger that will eat you and your village of data scientists for breakfast if you don't treat it with respect."
 ---
 
 Historical data is not what you think it is and you should be careful when you use it. This is the tl;dr version of this article.
 
 But there is of course more to it. We observe recently a particular proliferation of data science forays into the historical datasets. Isn't that cool? But most of them tend to range on a scale from bad to very bad. It's not like humanists make no mistakes - they do and aplenty. But there is a particular problem when data scientists start using historical data to make their claims. Things get even more dire when they apply machine learning to substantiate their claims. Why? Well, read on!
 
-##The pitfalls of "trustworthiness"
+## The pitfalls of "trustworthiness"
 
 This piece will not be a simple repetition of the criticism aimed at the "trustworthiness" paper, but some points a worth reiterating. I recommend a couple of twitter threads if you want a crash course first. There is [mine](https://twitter.com/Calthalas/status/1309403512867106816?s=20) (sorry...) but also [this one](https://twitter.com/TraversEoin/status/1309549394178519040), which tackles the statistics part very well and [this one](https://twitter.com/yet_so_far/status/1309475976376725504) which gives a very well rounded critique and [this one](https://twitter.com/Yael_Rice/status/1309856150796595201?s=20) dissecting the bias.
 
@@ -19,7 +19,8 @@ Let us summarise. The authors attempted to analyse how "trustworthiness" changes
 
 Awesome. Not. Short, but necessary points on the data science part: the regression graphs are a joke. A literal joke. The "trend" they found is based almost entirely on two outliers. This would not have passed a 1-year statistics assignment. But it made it to a huge, well known journal and got reposted by numerous media.
 
-##Your data is not what you think it is
+## Your data is not what you think it is
+
 Historical data is not any data. It might look like one, even superficially behave like one, but it isn't. And historical data stored in collections (be it museums, archives, galleries or databanks) is even less like normal data. And what historical data most certainly isn't is big data: that unicorn of data science that is supposed to change into gold under the influence of the modern philosophers' stone: machine learning. Leaving aside the deeply flawed assumptions about what big data can and cannot achieve (and there is a lot to unpack there) let us focus on why historical data cannot be treated that way.
 
 No data is neutral and apart from the fanatical bigdatists (believe me, they exist) very few data scientists will dispute the existence of inherent bias in datasets. Algorithms are the equivalent of a parrot: they will repeat and amplify any bias embedded in the dataset. You might remember the [Amazon hiring algorithm fiasco](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G), which prejudiced against women and people of colour, because it was based on the hiring data that... prejudiced against women and people of colour. This keeps happening and will keep happening, because the creators of those algorithms don't look at their data. And when I write look I mean: read. With comprehension.
@@ -40,7 +41,7 @@ Let me translate: they have taken fashions, cultural norms, and power structures
 
 Those portraits (from both initial datasets) span over 700 years. That is a solid quarter of an art history department. But the authors did not feel the need to consult *any* art historians. Each of the small periods in this dataset had its own norms and fashions. The art produced with those as framework contains a multitude of meanings, signals, and layers.
 
-![Van Eyck](images/Eyck.jpg)
+![Van Eyck](/images/Eyck.jpg)
 
 It sometimes takes a lifetime of scholarship to decode one of those and an enormous amount of collaboration to understand the strategies of communication within them. Each of them is comparable to others but each of them is unique.
 
@@ -52,7 +53,7 @@ If you think that this is limited to art history problems, well, it is not. Let 
 
 Historical data is not your familiar kitten. It's a saber-toothed tiger that will eat you and your village of data scientists for breakfast if you don't treat it with respect.
 
-##This has more consequences than you think
+## This has more consequences than you think
 
 Ok, this is all well and good but surely, what is the actual impact of a small study looking at some paintings of old dudes?
 
@@ -60,7 +61,7 @@ More than you think. There is a particular bias that we have to react to "scient
 
 The misuse of historical data is highly dangerous. First of all, because of its high complexity and difficulty in analysing the biases are difficult to spot. It takes a trained historian of art to notice the intricacies and differences between the portraits used. It takes an experienced economic historian to understand and explain why the measures of GDP do not fit pre-capitalist societies and that a sizeable chunk of those portraits has been created in times when something like Gross Domestic Product makes no sense. Finally it takes a good historian of historiography to point out and analyse the history of the social science works used in this paper, like *Über den Prozeß der Zivilisation* by Elias. (Conversely, it *doesn't* take a specialist to at least ask if maybe a work published in 1939 by a sociologist, however brilliant, has been commented and critiqued upon especially in its strong bias towards Western culture).
 
-##So, what now?
+## So, what now?
 
 Does this mean that historical data is off limits? Will we never see shiny visualisations of royal networks, maps of manuscript production, 3D reconstructions of mighty castles? On the contrary! Historical data is a great land of opportunity. There are countless projects that produce amazing results. The key is to cooperate with experts. This is not a revolutionary call. Just, quite simply, ask your friendly neighbourhood humanist about that set of portraits you want to analyse or that idea about economic growth or that 80-year old study of Western progress you want to reference.
 
