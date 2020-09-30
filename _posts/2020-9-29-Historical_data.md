@@ -68,3 +68,5 @@ Does this mean that historical data is off limits? Will we never see shiny visua
 Even more importantly: if you can amplify humanists, their work and their critique in the public sphere, do it! 
 
 Make humanist expertise more exciting than badly done regression graphs.
+
+You can follow me on twitter for more of This Sort of Thing [@Calthalas](https://twitter.com/Calthalas)
