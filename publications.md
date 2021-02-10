@@ -8,41 +8,66 @@ Publications
 
 Books:
 
-Beowulf by All, ed. by Jeannie Abbott, Elaine Treharne and Mateusz Fafinski (Leeds: ARC tba)
+Roman Infrastructure in Early Medieval Britain. The Adaptations of the Past in Text and Stone (Amsterdam: Amsterdam University Press 2020) [order here](https://www.aup.nl/en/book/9789463727532/roman-infrastructure-in-early-medieval-britain)
 
-Fafinski, Mateusz, Roman lnfrastructure in Early Medieval Britain. Transformations of the Past in Text and Stone (Amsterdam: Amsterdam University Press tba) under contract
+Beowulf by All, with Jeannie Abbott, and Elaine Treharne (Leeds: ARC 2021) [in print]
+
+Narratology for Late Antiquity and the Early Middle Ages, with Jakob Riemenschneider (Berlin: De Gruyter 2021) [in print]
+
+Thou Shall Not Covet a City: Medieval Monasticism and the Inheritance of the Roman City (Cambridge: Cambridge University Press 2022) [under contract]
+
 
 
 Articles:
 
+2021
+“Facsimile Narratives: Researching the Past in the Age of Digital Reproduction“, Digital Scholarship in the Humanities, accepted for publication
+
+“Lost in the City. Urban Space as a Space of Individuation in the Early Middle Ages“, Early Medieval Europe, under review
+
 2020
 
-Fafinski, Mateusz, “Glocal Matters: The Gospels of St Augustine as a Codex in Translation”, in: Medieval Manuscripts in the Digital Age ed. by Elaine Treharne, Benjamin Albritton, and Georgia Henley (London: Routledge 2020)
+“Glocal Matters: The Gospels of St Augustine as a Codex in Translation”, in: Medieval Manuscripts in the Digital Age ed. by Elaine Treharne, Benjamin Albritton, and Georgia Henley (London: Routledge 2020).
 
-Fafinski, Mateusz, “Faraway, so close: Liminal thinking and the use of geography in Old English Orosius”, Studies of Warmia 56, 2020. [read online](https://czasopisma.uwm.edu.pl/index.php/sw/article/view/3252)
+ “Challenges for visualising spatial and chronological distribution of medieval manuscripts: towards a fuzzy ontology”. Data for History 2020: Modelling Time, Places, Agents (2020).
+ 
+with Piotrowski, Michael, “Modelling Medieval Vagueness. Towards a Methodology of Visualising Geographical Uncertainty in Historical Texts, in: INFORMATIK 2020: 50. Jahrestagung der Gesellschaft für Informatik; 3. Workshop InfDH 2020 “Methoden und Anwendungen der Computational Humanities”. Lecture Notes in Informatics (LNI), ed. by Ralf H. Reussner, Anne Koziolek, Robert Heinrich (Bonn: Gesellschaft für Informatik), p. 1303–1312. [read online](https://doi.org/10.18420/inf2020_123)
+
+with Piotrowski, Michael, Nothing New Under the Sun? Computational Humanities and the Methodology of History, in: CHR2020: Proceedings of the Workshop on Computational Humanities Research, ed. by Folgert Karsdorp, Barbara McGillivray, Adina Nerghes, and Melvin Wevers (Amsterdam 2020), p. 171–181. [read online](http://ceur-ws.org/Vol-2723/short16.pdf)
+
+“Faraway, so close: Liminal thinking and the use of geography in Old English Orosius”, Studies of Warmia 56, 2020. [read online](https://czasopisma.uwm.edu.pl/index.php/sw/article/view/3252)
 
 2017
 
-Fafinski, Mateusz, “On the Road Again – Das Nachleben der römischen Infrastruktur”, Antike Welt 6, 2017, 49-57.
+“On the Road Again – Das Nachleben der römischen Infrastruktur”, Antike Welt 6, 2017, 49-57.
 
 2014
 
-Mateusz Fafinski, “The moving centre: trade and travel in York from Roman to Anglo-Saxon Times”, in: G.R. Owen-Crocker,  B. W. Schneider (eds.)  The Anglo-Saxons: The World through their Eyes, BAR British Series 595, Oxford: Archaeopress, 2014, 71-77. [read online](/PDFs/York.pdf)
+“The moving centre: trade and travel in York from Roman to Anglo-Saxon Times”, in: G.R. Owen-Crocker,  B. W. Schneider (eds.)  The Anglo-Saxons: The World through their Eyes, BAR British Series 595, Oxford: Archaeopress, 2014, 71-77. [read online](/PDFs/York.pdf)
 
 2013
 
-Mateusz Fafinski, “The Overseas Contacts of Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/PDFs/The Overseas Contacts of the Anglo-Saxon.pdf)
+“The Overseas Contacts of Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/PDFs/The Overseas Contacts of the Anglo-Saxon.pdf)
 
 2012
-
-Mateusz Fafinski, “Przez ciemności ku światłu – katabaza antyczna w legendarium Tolkiena”, in: Aiglos 17 (2012), 37-52.
+“Przez ciemności ku światłu – katabaza antyczna w legendarium Tolkiena”, in: Aiglos 17 (2012), 37-52.
 
 2010
 
-Mateusz Fafinski, “Od kościoła do targu. Wschodniopruska mała ojczyzna w ‘Dzieciach Jerominów’ Ernsta Wiecherta”, in: Podteksty 4/ 18 (2010). [read online](http://podteksty.amu.edu.pl/podteksty/?action=dynamic&nr=19&dzial=4&id=410)
+“Od kościoła do targu. Wschodniopruska mała ojczyzna w ‘Dzieciach Jerominów’ Ernsta Wiecherta”, in: Podteksty 4/ 18 (2010). [read online](http://podteksty.amu.edu.pl/podteksty/?action=dynamic&nr=19&dzial=4&id=410)
 
-Conferences and workshops
+Conferences and workshops, public talks
 ---
+2020:
+Invited presentation for the Lancaster University Digital Humanities Hub, December 2020
+`Digital Facsimiles: What They Are and Where to Find Them.`
+
+Invited lecture for Basel Digital Humanities Lab, October 2020
+`Cartographies of manuscripts: (Im)perfect fit: Mapping medieval manuscripts and their digital facsimiles.`
+
+Invited talk in the lecture series Old Scripts in New Digital Age Hermeneutics versus Artificial Intelligence, July 2020
+`Uncertain Pages: Mapping Historical Uncertainty Between Manuscripts and Their Digital Facsimiles.`
+
 2019:
 
 Panel Discussion, Innsbruck, November 2019
