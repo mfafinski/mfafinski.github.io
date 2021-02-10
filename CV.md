@@ -47,7 +47,7 @@ Digitalization of books, magazines and prints
 ## GRANTS AND SCHOLARSHIPS
 ---
 
-##### 2015-
+##### 2015-2018
 Doctoral fellowship by the Berlin Graduate School of Ancient Studies within the program Ancient Languages and Texts (ALT).
 
 ##### 2017
