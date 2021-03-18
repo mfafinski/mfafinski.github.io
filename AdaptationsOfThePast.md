@@ -23,7 +23,7 @@ You can read the Prologue (and see some cool maps!) here:
 </object>
 </div>
 
-If you can't see the PDF just go [here](https://mfafinski.github.io/PDFs/TheAdaptations_ToCandPrologue.pdf) to open it in a new window.
+If you can't see the PDF just go [here](https://mfafinski.github.io/PDFs/TheAdaptations_ToCandPrologue.pdf) to open it.
 
 To order the book go to [https://www.aup.nl/en/book/9789463727532/roman-infrastructure-in-early-medieval-britain](https://www.aup.nl/en/book/9789463727532/roman-infrastructure-in-early-medieval-britain) You will get a 20% discount until the 18th May 2021 with a code "Pub_RomanInfrastructure"!
 
