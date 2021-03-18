@@ -15,7 +15,13 @@ Early Medieval Britain was more Roman than we think. The Roman Empire left vast 
 
 You can read the Prologue (and see some cool maps!) here:
 
-<embed src="https://mfafinski.github.io/PDFs/TheAdaptations_ToCandPrologue.pdf" type="application/pdf" width="100%" height="100%" />
+<div>
+<object data="https://mfafinski.github.io/PDFs/TheAdaptations_ToCandPrologue.pdf" type="application/pdf" width="100%" height="100%" >
+    <embed src="https://mfafinski.github.io/PDFs/TheAdaptations_ToCandPrologue.pdf" type="application/pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://mfafinski.github.io/PDFs/TheAdaptations_ToCandPrologue.pdf" type="application/pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+</div>
 
 To order the book go to [https://www.aup.nl/en/book/9789463727532/roman-infrastructure-in-early-medieval-britain](https://www.aup.nl/en/book/9789463727532/roman-infrastructure-in-early-medieval-britain) You will get a 20% discount until the 18th May 2021 with a code "Pub_RomanInfrastructure"!
 
