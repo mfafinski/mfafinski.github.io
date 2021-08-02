@@ -13,6 +13,8 @@ The film is also full of delightful anachronisms that save it from being part of
 
 But perhaps the greatest strength of this psychedelic interpretation of a centuries-old poem is that it makes you think that if the medieval author of that poem had a camera and 15 million dollars this *could have been* the adaptation they would make. And could've would've is very much in tune with the general tone of the poem itself. The Green Knight is not postmodern - it is just very truly medieval. Those two are easy to be mistaken for each other.
 
+We could and should discuss the way violence, sexual realtionships, and the role of women are depicted in this film - it is not perfect even if it does some things right. Those will, no doubt, spur a vigorous debate.
+
 All this does not stop The Green Knight from being a very modern film. Dev Patel is a modern hero stuck in a challenge that has no happy outcome. A challenge which he takes partly because of his own pride but chiefly because of the boomer world (Arthur is *such* a boomer) in which he had no choice but be born into. The sometimes absurd norms of this world and the constant fear of decay (so reminiscent of our climate change worries) cannot be easily shaken off. Is it really a fight that can be won? This makes Gawain's quest and Gawain's choices even more ambiguous. And shows how much in common we have today with the medieval world (and it is not just the plague).
 
 The Green Knight remains a magnificent but flawed film. Just like the poem on which it is based is flawed. And it is good so.
