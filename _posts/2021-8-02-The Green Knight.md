@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Meidevalist Delight"
+title:  "A Medievalist Delight"
 image: /images/Green_Knight.jpg
 excerpt: "The Green Knight is not a perfect film. Sometimes it loses its pacing, sometimes the camera work seems a bit lazy. But it truly does not matter."
 ---
