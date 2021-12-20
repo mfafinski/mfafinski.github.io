@@ -28,7 +28,7 @@ Gone are also the confusing mixed timelines. And when I mean gone, they are gone
 
 I did complain in the past that the mixed timelines thing was a bit too much in the first season. For various reasons (not least the marketability of the show) it had to be toned down. But to make linear time the only option in a story set in a world which constantly plays with notions of non-linear time feels wrong. And it forces compromises that constrain the story, that require us to believe there is just here and now. As time becomes constrained, space becomes smaller. That's something that medieval authors knew very well. The fringes of late antique and medieval maps had the most story to them - the periphery bursted in narrative possibilities. I was myself shocked how well this worked on screen in the first season. The world *seemed* vast. It is oh so very small now.
 
-![Tabula Peutingeriana](/images/Elephants.png)
+![Tabula Peutingeriana. Here elephants are born](/images/Elephants.png)
 
 This approach is not without merits. It allows for more dialogue, Geralt is less of a grunt now, Ciri can develop. Yennefer can become a car-crash of a character. From a figure so full of difficult moral choices and internal conflicts, casted *brilliantly* she changed into a narrative object propelled by the irresistible force of a very, very forced subplot. We know by episode two where it will land, how is only partly a mystery. The moral compromises along the way also feel both expected and forced because, we need to get from A to B.
 
