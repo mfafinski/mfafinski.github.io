@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Procopius and Pandemic Trauma"
+title:  "Procopius and Collective Trauma in the Classroom"
 image: /images/Prokop.jpg
 excerpt: "Teaching Procopius is difficult now. While it has enormous value it is also a high-stakes material today. But his account is also crucial for our application of trauma-informed pedagogy. As a *literary text*, written by someone dealing with pandemic trauma it provides us with a unique way to address the impact of the COVID pandemic."
 ---
