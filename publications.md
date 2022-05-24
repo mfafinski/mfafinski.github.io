@@ -6,7 +6,7 @@ layout: page
 Publications
 ---
 
-Books:
+####Books:
 
 Medieval Monasticism and the Inheritance of the Roman City (Cambridge: Cambridge University Press 2022) [in print]
 
@@ -16,7 +16,7 @@ Roman Infrastructure in Early Medieval Britain. The Adaptations of the Past in T
 
 Beowulf by All, with Jeannie Abbott and Elaine Treharne (Eds.) (Leeds: ARC 2021)
 
-Peer-Reviewed Articles:
+####Peer-Reviewed Articles:
 
 “Facsimile Narratives: Researching the Past in the Age of Digital Reproduction”. Digital Scholarship in the Humanities 37 2022 (1): 94–108. [https://doi.org/10.1093/llc/fqab017](https://doi.org/10.1093/llc/fqab017). 
 
@@ -24,7 +24,7 @@ with Jakob Riemenschneider, [“Literarised Spaces. Towards a Narratological Fra
 
 “Glocal Matters: The Gospels of St Augustine as a Codex in Translation”, in: Medieval Manuscripts in the Digital Age ed. by Elaine Treharne, Benjamin Albritton, and Georgia Henley (London: Routledge 2020), 93-99.
 
-“with Piotrowski, Michael, “Modelling Medieval Vagueness. Towards a Methodology of Visualising Geographical Uncertainty in Historical Texts, in: INFORMATIK 2020: 50. Jahrestagung der Gesellschaft für Informatik; 3. Workshop InfDH 2020 “Methoden und Anwendungen der Computational Humanities”. Lecture Notes in Informatics (LNI), ed. by Ralf H. Reussner, Anne Koziolek, Robert Heinrich (Bonn: Gesellschaft für Informatik), p. 1303–1312. [read online](https://doi.org/10.18420/inf2020_123)
+with Piotrowski, Michael, “Modelling Medieval Vagueness. Towards a Methodology of Visualising Geographical Uncertainty in Historical Texts, in: INFORMATIK 2020: 50. Jahrestagung der Gesellschaft für Informatik; 3. Workshop InfDH 2020 “Methoden und Anwendungen der Computational Humanities”. Lecture Notes in Informatics (LNI), ed. by Ralf H. Reussner, Anne Koziolek, Robert Heinrich (Bonn: Gesellschaft für Informatik), p. 1303–1312. [read online](https://doi.org/10.18420/inf2020_123)
 
 with Piotrowski, Michael, Nothing New Under the Sun? Computational Humanities and the Methodology of History, in: CHR2020: Proceedings of the Workshop on Computational Humanities Research, ed. by Folgert Karsdorp, Barbara McGillivray, Adina Nerghes, and Melvin Wevers (Amsterdam 2020), p. 171–181. [read online](http://ceur-ws.org/Vol-2723/short16.pdf)
 
@@ -39,9 +39,12 @@ with Piotrowski, Michael, Nothing New Under the Sun? Computational Humanities an
 
 Public humanities:
 
-‘[Die Macht der Karten](https://uebermedien.de/69336/die-macht-der-karten/)’. Übermedien, 11 March 2022. .
+‘[Die Macht der Karten](https://uebermedien.de/69336/die-macht-der-karten/)’. Übermedien, 11 March 2022.
+
 ‘[In Putin’s War, the Map Is Not the Territory](https://foreignpolicy.com/2022/03/07/russia-war-ukraine-maps/)’. Foreign Policy. 7 March 2022.
-‘[Boris Johnson’s Roman Fantasies](https://foreignpolicy.com/2021/11/01/boris-johnson-fall-rome-immigration/)’. Foreign Policy. 1 November 2021. .
+
+‘[Boris Johnson’s Roman Fantasies](https://foreignpolicy.com/2021/11/01/boris-johnson-fall-rome-immigration/)’. Foreign Policy. 1 November 2021.
+
 ‘[The Past Doesn’t Tell Easy Stories About the West](https://foreignpolicy.com/2021/06/20/history-cliodynamics-weird-turchin/)’. Foreign Policy. 20 June 2021. .
 
 Interviews:
