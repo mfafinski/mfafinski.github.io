@@ -13,7 +13,7 @@ output: github_document
 ### Interactive atlas of Early Medieval Charters in England
 
 
-In my PhD research I have created an interactive map of all the Early Medieval charters in England (over 1200 documents, containing more than 2 million characters). The map incorporates data from previous written editions, automatically scrapped. The  estates are semi-automatically geolocated: the geographical names are extracted from the text using a dictionary of English place names and their longitude and latitude is established using a script working with OpenStreetMaps API. The topographical layer incorporates the open source topographical maps from the National Library of Scotland. The final visualisation is build in R and styled using mixed markdown/HTML and linked to the main database of Early Medieval charters, the [Electronic Sawyer](https://esawyer.lib.cam.ac.uk), allowing a further exploration of text.
+In my PhD research I have created an interactive map of all the early medieval charters in England (over 1200 documents, containing more than 2 million characters). The map incorporates data from previous written editions, automatically scrapped. The  estates are semi-automatically geolocated: the geographical names are extracted from the text using a dictionary of English place names and their longitude and latitude is established using a script working with OpenStreetMaps API. The topographical layer incorporates the open source topographical maps from the National Library of Scotland. The final visualisation is build in R and styled using mixed markdown/HTML and linked to the main database of Early Medieval charters, the [Electronic Sawyer](https://esawyer.lib.cam.ac.uk), allowing a further exploration of text.
 
 <p>&nbsp;</p>
 <!--html_preserve-->
