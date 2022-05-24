@@ -13,126 +13,57 @@ I also work extensively in the area of Digital Humanities, exploring spatial pre
 You will find my academic CV [here](/CV.md)
 
 
+---
+layout: page
+---
+
+
 Publications
 ---
 
-Books:
+####Books:
 
-Beowulf by All, ed. by Jeannie Abbott, Elaine Treharne and Mateusz Fafinski (Leeds: ARC tba)
+Medieval Monasticism and the Inheritance of the Roman City (Cambridge: Cambridge University Press 2022) [in print]
 
-Fafinski, Mateusz, Roman lnfrastructure in Early Medieval Britain. Transformations of the Past in Text and Stone (Amsterdam: Amsterdam University Press tba) under contract
+[The Past Through Narratology. New Approaches to Late Antiquity and the Early Middle Ages](https://heiup.uni-heidelberg.de/catalog/book/921), with Jakob Riemenschneider (Eds.) Das Mittelalter. Perspektiven mediävistischer Forschung / Beihefte, Band 18. (Heidelberg: Heidelberg University Publishing, 2022)
+
+Roman Infrastructure in Early Medieval Britain. The Adaptations of the Past in Text and Stone (Amsterdam: Amsterdam University Press 2021) 
+
+Beowulf by All, with Jeannie Abbott and Elaine Treharne (Eds.) (Leeds: ARC 2021)
+
+####Peer-Reviewed Articles:
+
+“Facsimile Narratives: Researching the Past in the Age of Digital Reproduction”. Digital Scholarship in the Humanities 37 2022 (1): 94–108. [https://doi.org/10.1093/llc/fqab017](https://doi.org/10.1093/llc/fqab017). 
+
+with Jakob Riemenschneider, [“Literarised Spaces. Towards a Narratological Framework for Late Antiquity and the Early Middle Ages”](https://heiup.uni-heidelberg.de/catalog/book/921/c13610). In The Past Through Narratology. New Approaches to Late Antiquity and the Early Middle Ages, edited by Mateusz Fafinski and Jakob Riemenschneider, 7–23. Das Mittelalter. Perspektiven Mediävistischer Forschung. Beihefte 18. Heidelberg: Heidelberg University Press 2022.
+
+“Glocal Matters: The Gospels of St Augustine as a Codex in Translation”, in: Medieval Manuscripts in the Digital Age ed. by Elaine Treharne, Benjamin Albritton, and Georgia Henley (London: Routledge 2020), 93-99.
+
+with Piotrowski, Michael, “Modelling Medieval Vagueness. Towards a Methodology of Visualising Geographical Uncertainty in Historical Texts, in: INFORMATIK 2020: 50. Jahrestagung der Gesellschaft für Informatik; 3. Workshop InfDH 2020 “Methoden und Anwendungen der Computational Humanities”. Lecture Notes in Informatics (LNI), ed. by Ralf H. Reussner, Anne Koziolek, Robert Heinrich (Bonn: Gesellschaft für Informatik), p. 1303–1312. [read online](https://doi.org/10.18420/inf2020_123)
+
+with Piotrowski, Michael, Nothing New Under the Sun? Computational Humanities and the Methodology of History, in: CHR2020: Proceedings of the Workshop on Computational Humanities Research, ed. by Folgert Karsdorp, Barbara McGillivray, Adina Nerghes, and Melvin Wevers (Amsterdam 2020), p. 171–181. [read online](http://ceur-ws.org/Vol-2723/short16.pdf)
+
+“[Faraway, so close: Liminal thinking and the use of geography in Old English Orosius](https://czasopisma.uwm.edu.pl/index.php/sw/article/view/3252)”, Studies of Warmia 56, 2020.
+
+“On the Road Again – Das Nachleben der römischen Infrastruktur”, Antike Welt 6, 2017, 49-57.
+
+“The moving centre: trade and travel in York from Roman to Anglo-Saxon Times”. In: Gale R. Owen-Crocker and Brian W. Schneider (ed.) The Anglo-Saxons: The World through their Eyes, BAR British Series 595 (2014), 71-77.
+
+“The Overseas Contacts of Anglo-Saxon England. A reassessment”, Echa Przeszłości XIV (2013), 7-29.
 
 
-Articles:
+Public humanities:
 
-2020
+‘[Die Macht der Karten](https://uebermedien.de/69336/die-macht-der-karten/)’. Übermedien, 11 March 2022.
 
-Fafinski, Mateusz, “Glocal Matters: The Gospels of St Augustine as a Codex in Translation”, in: Medieval Manuscripts in the Digital Age ed. by Elaine Treharne, Benjamin Albritton, and Georgia Henley (London: Routledge 2020)
+‘[In Putin’s War, the Map Is Not the Territory](https://foreignpolicy.com/2022/03/07/russia-war-ukraine-maps/)’. Foreign Policy. 7 March 2022.
 
-Fafinski, Mateusz, “Faraway, so close: Liminal thinking and the use of geography in Old English Orosius”, Studies of Warmia 56, 2020. [read online](https://czasopisma.uwm.edu.pl/index.php/sw/article/view/3252)
+‘[Boris Johnson’s Roman Fantasies](https://foreignpolicy.com/2021/11/01/boris-johnson-fall-rome-immigration/)’. Foreign Policy. 1 November 2021.
 
-2017
+‘[The Past Doesn’t Tell Easy Stories About the West](https://foreignpolicy.com/2021/06/20/history-cliodynamics-weird-turchin/)’. Foreign Policy. 20 June 2021. .
 
-Fafinski, Mateusz, “On the Road Again – Das Nachleben der römischen Infrastruktur”, Antike Welt 6, 2017, 49-57.
+Interviews:
 
-2014
+‘[Ukrainekrieg: »Man kann mit Karten hervorragend lügen« – Interview mit dem Historiker Mateusz Fafinski](https://www.spiegel.de/wissenschaft/mensch/ukraine-krieg-historiker-mateusz-fafinski-man-kann-mit-karten-hervorragend-luegen-a-05230677-77b9-4354-89aa-65de98fa88e5)’. Der Spiegel, 15 April 2022, sec. Wissenschaft.
 
-Mateusz Fafinski, “The moving centre: trade and travel in York from Roman to Anglo-Saxon Times”, in: G.R. Owen-Crocker,  B. W. Schneider (eds.)  The Anglo-Saxons: The World through their Eyes, BAR British Series 595, Oxford: Archaeopress, 2014, 71-77. [read online](/PDFs/York.pdf)
-
-2013
-
-Mateusz Fafinski, “The Overseas Contacts of Anglo-Saxon England. A reassessment”, in: Echa Przeszłości XIV (2013), 7-29. [read online](/PDFs/The Overseas Contacts of the Anglo-Saxon.pdf)
-
-2012
-
-Mateusz Fafinski, “Przez ciemności ku światłu – katabaza antyczna w legendarium Tolkiena”, in: Aiglos 17 (2012), 37-52.
-
-2010
-
-Mateusz Fafinski, “Od kościoła do targu. Wschodniopruska mała ojczyzna w ‘Dzieciach Jerominów’ Ernsta Wiecherta”, in: Podteksty 4/ 18 (2010). [read online](http://podteksty.amu.edu.pl/podteksty/?action=dynamic&nr=19&dzial=4&id=410)
-
-Conferences and workshops
----
-2019:
-
-Panel Discussion, Innsbruck, November 2019
-`The Fall of Rome? Concepts for a Transforming Mediterranean 300-800`
-
-International Medieval Congress, Leeds, July 2019
-`Power over Civitas: controlling Early Medieval Urban Spaces in the Rhine Valley`
-
-Late antique seminar, University of Warsaw, March 2019
-`Late antique provincial capital in the Early Middle Ages: observations from the periphery`
-
-2018:
-
-CESTA Seminar, Stanford CA, October 2018
-`Catrographies of Text: Unstructured Historical Textual Data and Maps`
-
-8th Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History, Berlin, June 2018
-`Imperial Undertaking? The Symbolic Landscape of Conversion in Anglo-Saxon England`
-
-Manuscript Workshop Cambridge/Tübingen/Berlin, Württembergische Landesbibliothek Stuttgart, May 2018
-
-Parker on the Web 2.0, Stanford CA, March 2018
-`Gospels of St Augustine (MS286) and the Old English Bede (MS41) as texts in perpetual translation`
-
-Social Tensions Between Kinship and Community in the Middle Ages, Frankfurt am Main, January 2018
-`Monks, merchants and scholars. Individuation and relationships in Early Medieval urban space`
-
-2017:
-
-British Museum Medieval Seminar, London, November 2017
-`(Re-)using Rome: Roman Infrastructure as Early Medieval Governance Resource in Britain`
-
-International Society of Anglo-Saxonists Conference, Honolulu, August 2017
-`The Cities of Others. Early British Relationship with Roman Urban Space;`
-`Public Medievalism - session organizer together with Sihong Lin and Kate Mees`
-
-International Medieval Congress, Leeds, July 2017
-`The City and the City: Urban Space Infrastructure in the Context of Early Medieval Britain`
-
-Challenging Grand Narratives, Dublin, June 2017
-
-`Continuous Problems. The Spectre of Continuity in Early Medieval History Writing`
-
-7th Workshop of the Graduate Exchange in Late Antique, Byzantine and Medieval History, Mainz, May 2017
-
-`Looking for a City. A Reassessment of the Search for Early Medieval Urbanism in Britain`
-
-2016
-
-8 Darmstädter Diskussionen, September 2016
-
-`The Image of Roman Infrastructure
-in Anglo-Saxon Cultural Space`
-
-International Medieval Congress, Leeds, July 2016
-
-`The Roman Infrastructure in Early Medieval Britain as a Governance Resource`
-
-Nutzung und Umnutzung von Grundbesitz, Gebäuden und Infrastrukturen im römischen Imperium und danach: Historische, rechtshistorische und archäologische Perspektive, Berlin, June 2016
-
-`The Roman Roads in Anglo-Saxon Charters ‒ Demarcation and Usage`
-
-The Ethnic and the Social: the Forms of Interplay and Conflicts, Sankt Petersburg, February 2016
-
-`Group conflict in the Early Medieval urban space - identification and approach`
-
-2010
-
-MANCASS Easter Conference, Manchester, April 2010
-
-2009
-
-XVIII Polish Historians Conference, Olsztyn, September 2009
-
-V International Conference in Antique and Byzantine Studies, May 2009
-
-XVII Polish History Students Conference, Olsztyn, April 2009
-
-Regions in Culture, Poznań, March 2009
-
-2008
-
-Ad Fontes IX: Terra cognita, Środa Śląska 2008
+‘[Die Macht der Karten](https://www.radioeins.de/programm/sendungen/die_profis/archivierte_sendungen/beitraege/die-macht-der-karten.html)’. Die Profis. Berlin: Radio Eins, 26 March 2022.
