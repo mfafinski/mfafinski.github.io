@@ -13,15 +13,10 @@ I also work extensively in the area of Digital Humanities, exploring spatial pre
 You will find my academic CV [here](/CV.md)
 
 
----
-layout: page
----
-
-
 Publications
 ---
 
-####Books:
+#### Books:
 
 Medieval Monasticism and the Inheritance of the Roman City (Cambridge: Cambridge University Press 2022) [in print]
 
@@ -31,7 +26,7 @@ Roman Infrastructure in Early Medieval Britain. The Adaptations of the Past in T
 
 Beowulf by All, with Jeannie Abbott and Elaine Treharne (Eds.) (Leeds: ARC 2021)
 
-####Peer-Reviewed Articles:
+#### Peer-Reviewed Articles:
 
 “Facsimile Narratives: Researching the Past in the Age of Digital Reproduction”. Digital Scholarship in the Humanities 37 2022 (1): 94–108. [https://doi.org/10.1093/llc/fqab017](https://doi.org/10.1093/llc/fqab017). 
 
